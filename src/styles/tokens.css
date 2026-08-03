@@ -1,0 +1,104 @@
+/* Design tokens — lifted from the Claude Design "OPTCG Deck Lab UI" project.
+ * The design encoded these as literal values in inline styles; naming them here
+ * is what lets the rest of the app stay consistent as it grows past the two
+ * screens the mockup covered. */
+
+:root {
+  /* --- surfaces ------------------------------------------------------ */
+  --bg: #0a0c10;
+  --bg-raise: radial-gradient(120% 90% at 50% -20%, #151a24 0%, #0a0c10 60%);
+  --panel: rgba(255, 255, 255, .012);
+  --panel-2: rgba(255, 255, 255, .028);
+  --panel-3: rgba(255, 255, 255, .05);
+  --header-bg: rgba(12, 15, 20, .86);
+  --overlay: rgba(18, 21, 28, .97);
+
+  /* --- lines --------------------------------------------------------- */
+  --line: rgba(255, 255, 255, .07);
+  --line-soft: rgba(255, 255, 255, .05);
+  --line-strong: rgba(255, 255, 255, .1);
+
+  /* --- text ---------------------------------------------------------- */
+  --tx: #e8eaef;
+  --tx-bright: #eceff5;
+  --tx-2: #b9c0cf;
+  --tx-3: #8b93a4;
+  --tx-4: #6f7889;
+  --tx-5: #5f6878;
+  --tx-6: #4b5364;
+  --tx-dim: #2f3644;
+
+  /* --- card colours (One Piece) --------------------------------------- */
+  --c-red: #e0574f;
+  --c-green: #4fd39a;
+  --c-blue: #5b9dff;
+  --c-purple: #a97bff;
+  --c-black: #8b93a4;
+  --c-yellow: #e8b84b;
+
+  /* Card-face tints, paired with the colour above. */
+  --t-red: #3a1c1c;
+  --t-green: #122b22;
+  --t-blue: #182438;
+  --t-purple: #281c38;
+  --t-black: #1c1f26;
+  --t-yellow: #332a14;
+
+  /* --- semantic ------------------------------------------------------- */
+  --accent: #5b9dff;          /* primary actions, focus, info */
+  --accent-soft: #9dc4ff;
+  --accent-bright: #cfe1ff;
+  --don: #e8b84b;             /* DON!! gold — cost, pips, resources */
+  --danger: #e0574f;          /* attacks, damage, illegal state */
+  --danger-soft: #ff8b84;
+  --ok: #4fd39a;
+
+  /* --- type ----------------------------------------------------------- */
+  --font: Archivo, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, Consolas, monospace;
+
+  /* --- shape ---------------------------------------------------------- */
+  --r-xs: 4px;
+  --r-sm: 6px;
+  --r-md: 8px;
+  --r-lg: 10px;
+  --r-xl: 12px;
+  --r-pill: 999px;
+
+  /* --- depth ---------------------------------------------------------- */
+  --sh-card: 0 3px 12px rgba(0, 0, 0, .4);
+  --sh-lift: 0 10px 26px rgba(0, 0, 0, .5);
+  --sh-pop: 0 20px 50px rgba(0, 0, 0, .6);
+  --sh-accent: 0 2px 10px rgba(91, 157, 255, .28);
+
+  /* --- motion ---------------------------------------------------------- */
+  --ease: cubic-bezier(.2, .8, .2, 1);
+  --t-fast: .16s;
+  --t-mid: .2s;
+  --t-slow: .3s;
+
+  /* --- layout ---------------------------------------------------------- */
+  --header-h: 54px;
+  --rail-l: 220px;
+  --rail-r: 322px;
+}
+
+/* Respect the platform setting — every animation here is decorative.
+ *
+ * Note the 0s rather than the more common 0.01ms. `transition-property`
+ * defaults to `all`, so a non-zero duration here starts a real transition on
+ * EVERY property of EVERY element — including ones nobody declared. A running
+ * transition outranks inline styles in the cascade, which silently breaks any
+ * JS that positions an element by writing style.left/style.top each frame.
+ * A duration of 0s never starts a transition at all, so nothing is overridden. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0s !important;
+    transition-delay: 0s !important;
+    scroll-behavior: auto !important;
+  }
+}
