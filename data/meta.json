@@ -1,0 +1,6845 @@
+{
+  "generated": "2026-08-03T02:09:14.850Z",
+  "format": "OP16",
+  "source": "https://onepiece.limitlesstcg.com",
+  "sourceNote": "Tournament data scraped from Limitless TCG, a free fan-run site. Card data comes separately from punk-records.",
+  "deckSize": 50,
+  "totalLists": 364,
+  "archetypes": [
+    {
+      "id": 74,
+      "name": "Blue/Yellow Nami",
+      "leader": "OP11-041",
+      "leaderVariants": [],
+      "share": 0.24789999999999998,
+      "points": 1248,
+      "deckCount": 101,
+      "skippedLists": 0,
+      "consensus": {
+        "EB03-053": 4,
+        "EB04-058": 4,
+        "EB03-055": 4,
+        "OP11-106": 4,
+        "OP13-042": 3,
+        "OP16-056": 4,
+        "OP14-102": 4,
+        "OP14-104": 4,
+        "OP14-111": 4,
+        "OP14-110": 4,
+        "OP06-104": 3,
+        "OP12-112": 2,
+        "PRB02-008": 1,
+        "OP15-113": 1,
+        "OP06-058": 2,
+        "OP16-119": 2
+      },
+      "core": {
+        "EB03-053": 4,
+        "EB04-058": 4,
+        "EB03-055": 4,
+        "OP11-106": 3,
+        "OP13-042": 2,
+        "OP16-056": 2,
+        "OP14-102": 4,
+        "OP14-104": 3,
+        "OP14-111": 3,
+        "OP14-110": 3
+      },
+      "coreSlots": 32,
+      "flexSlots": 18,
+      "contenders": [
+        {
+          "id": "OP06-104",
+          "copy": 1,
+          "weight": 0.8812,
+          "inConsensus": true
+        },
+        {
+          "id": "OP06-104",
+          "copy": 2,
+          "weight": 0.8812,
+          "inConsensus": true
+        },
+        {
+          "id": "OP14-104",
+          "copy": 4,
+          "weight": 0.8812,
+          "inConsensus": true
+        },
+        {
+          "id": "OP13-042",
+          "copy": 3,
+          "weight": 0.8416,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-056",
+          "copy": 3,
+          "weight": 0.8416,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-112",
+          "copy": 1,
+          "weight": 0.8119,
+          "inConsensus": true
+        },
+        {
+          "id": "PRB02-008",
+          "copy": 1,
+          "weight": 0.8119,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-112",
+          "copy": 2,
+          "weight": 0.7921,
+          "inConsensus": true
+        },
+        {
+          "id": "OP14-111",
+          "copy": 4,
+          "weight": 0.7723,
+          "inConsensus": true
+        },
+        {
+          "id": "OP14-110",
+          "copy": 4,
+          "weight": 0.7426,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-113",
+          "copy": 1,
+          "weight": 0.7327,
+          "inConsensus": true
+        },
+        {
+          "id": "OP06-058",
+          "copy": 1,
+          "weight": 0.703,
+          "inConsensus": true
+        },
+        {
+          "id": "OP11-106",
+          "copy": 4,
+          "weight": 0.6634,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-056",
+          "copy": 4,
+          "weight": 0.6139,
+          "inConsensus": true
+        },
+        {
+          "id": "OP06-104",
+          "copy": 3,
+          "weight": 0.5644,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-119",
+          "copy": 1,
+          "weight": 0.5446,
+          "inConsensus": true
+        },
+        {
+          "id": "OP06-058",
+          "copy": 2,
+          "weight": 0.495,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-119",
+          "copy": 2,
+          "weight": 0.4554,
+          "inConsensus": true
+        },
+        {
+          "id": "PRB02-008",
+          "copy": 2,
+          "weight": 0.4158,
+          "inConsensus": false
+        },
+        {
+          "id": "OP12-112",
+          "copy": 3,
+          "weight": 0.4158,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-119",
+          "copy": 1,
+          "weight": 0.3366,
+          "inConsensus": false
+        },
+        {
+          "id": "OP06-106",
+          "copy": 1,
+          "weight": 0.2772,
+          "inConsensus": false
+        },
+        {
+          "id": "OP06-106",
+          "copy": 2,
+          "weight": 0.2574,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-114",
+          "copy": 1,
+          "weight": 0.2376,
+          "inConsensus": false
+        }
+      ],
+      "cards": [
+        {
+          "id": "EB03-053",
+          "lists": 101,
+          "include": 1,
+          "avg": 3.99,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.9901
+          }
+        },
+        {
+          "id": "EB04-058",
+          "lists": 101,
+          "include": 1,
+          "avg": 3.98,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.9802
+          }
+        },
+        {
+          "id": "EB03-055",
+          "lists": 100,
+          "include": 0.9900990099009901,
+          "avg": 3.9,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9901,
+            "2": 0.9901,
+            "3": 0.9802,
+            "4": 0.9406
+          }
+        },
+        {
+          "id": "OP14-102",
+          "lists": 94,
+          "include": 0.9306930693069307,
+          "avg": 3.7,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9307,
+            "2": 0.9307,
+            "3": 0.9307,
+            "4": 0.9109
+          }
+        },
+        {
+          "id": "OP14-104",
+          "lists": 94,
+          "include": 0.9306930693069307,
+          "avg": 3.67,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9307,
+            "2": 0.9307,
+            "3": 0.9307,
+            "4": 0.8812
+          }
+        },
+        {
+          "id": "OP11-106",
+          "lists": 100,
+          "include": 0.9900990099009901,
+          "avg": 3.56,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9901,
+            "2": 0.9901,
+            "3": 0.9208,
+            "4": 0.6634
+          }
+        },
+        {
+          "id": "OP14-111",
+          "lists": 94,
+          "include": 0.9306930693069307,
+          "avg": 3.56,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9307,
+            "2": 0.9307,
+            "3": 0.9307,
+            "4": 0.7723
+          }
+        },
+        {
+          "id": "OP14-110",
+          "lists": 93,
+          "include": 0.9207920792079208,
+          "avg": 3.48,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9208,
+            "2": 0.9109,
+            "3": 0.901,
+            "4": 0.7426
+          }
+        },
+        {
+          "id": "OP16-056",
+          "lists": 96,
+          "include": 0.9504950495049505,
+          "avg": 3.36,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9505,
+            "2": 0.9505,
+            "3": 0.8416,
+            "4": 0.6139
+          }
+        },
+        {
+          "id": "OP13-042",
+          "lists": 96,
+          "include": 0.9504950495049505,
+          "avg": 2.94,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.9505,
+            "2": 0.9406,
+            "3": 0.8416,
+            "4": 0.2079
+          }
+        },
+        {
+          "id": "OP06-104",
+          "lists": 89,
+          "include": 0.8811881188118812,
+          "avg": 2.37,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.8812,
+            "2": 0.8812,
+            "3": 0.5644,
+            "4": 0.0396
+          }
+        },
+        {
+          "id": "OP12-112",
+          "lists": 82,
+          "include": 0.8118811881188119,
+          "avg": 2.14,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.8119,
+            "2": 0.7921,
+            "3": 0.4158,
+            "4": 0.1188
+          }
+        },
+        {
+          "id": "PRB02-008",
+          "lists": 82,
+          "include": 0.8118811881188119,
+          "avg": 1.39,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.8119,
+            "2": 0.4158,
+            "3": 0.1287,
+            "4": 0.0297
+          }
+        },
+        {
+          "id": "OP06-058",
+          "lists": 71,
+          "include": 0.7029702970297029,
+          "avg": 1.25,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.703,
+            "2": 0.495,
+            "3": 0.0495
+          }
+        },
+        {
+          "id": "OP16-119",
+          "lists": 55,
+          "include": 0.5445544554455446,
+          "avg": 1.18,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.5446,
+            "2": 0.4554,
+            "3": 0.1188,
+            "4": 0.0594
+          }
+        },
+        {
+          "id": "OP15-113",
+          "lists": 74,
+          "include": 0.7326732673267327,
+          "avg": 1.02,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.7327,
+            "2": 0.2277,
+            "3": 0.0396,
+            "4": 0.0198
+          }
+        },
+        {
+          "id": "OP06-106",
+          "lists": 28,
+          "include": 0.27722772277227725,
+          "avg": 0.72,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.2772,
+            "2": 0.2574,
+            "3": 0.1584,
+            "4": 0.0297
+          }
+        },
+        {
+          "id": "P-096",
+          "lists": 21,
+          "include": 0.2079207920792079,
+          "avg": 0.69,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.2079,
+            "2": 0.2079,
+            "3": 0.1881,
+            "4": 0.0891
+          }
+        },
+        {
+          "id": "OP15-119",
+          "lists": 34,
+          "include": 0.33663366336633666,
+          "avg": 0.65,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.3366,
+            "2": 0.2079,
+            "3": 0.0792,
+            "4": 0.0297
+          }
+        },
+        {
+          "id": "OP15-114",
+          "lists": 24,
+          "include": 0.2376237623762376,
+          "avg": 0.53,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.2376,
+            "2": 0.2178,
+            "3": 0.0495,
+            "4": 0.0297
+          }
+        },
+        {
+          "id": "OP14-108",
+          "lists": 20,
+          "include": 0.19801980198019803,
+          "avg": 0.44,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.198,
+            "2": 0.1683,
+            "3": 0.0594,
+            "4": 0.0099
+          }
+        },
+        {
+          "id": "OP16-052",
+          "lists": 8,
+          "include": 0.07920792079207921,
+          "avg": 0.26,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.0792,
+            "2": 0.0792,
+            "3": 0.0792,
+            "4": 0.0198
+          }
+        },
+        {
+          "id": "OP15-109",
+          "lists": 7,
+          "include": 0.06930693069306931,
+          "avg": 0.25,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.0693,
+            "2": 0.0693,
+            "3": 0.0693,
+            "4": 0.0396
+          }
+        },
+        {
+          "id": "OP15-047",
+          "lists": 18,
+          "include": 0.1782178217821782,
+          "avg": 0.23,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1782,
+            "2": 0.0396,
+            "3": 0.0099
+          }
+        },
+        {
+          "id": "EB03-024",
+          "lists": 4,
+          "include": 0.039603960396039604,
+          "avg": 0.11,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.0396,
+            "2": 0.0396,
+            "3": 0.0297
+          }
+        },
+        {
+          "id": "OP10-049",
+          "lists": 3,
+          "include": 0.0297029702970297,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.0297,
+            "2": 0.0297,
+            "3": 0.0297,
+            "4": 0.0198
+          }
+        },
+        {
+          "id": "EB04-061",
+          "lists": 4,
+          "include": 0.039603960396039604,
+          "avg": 0.07,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0396,
+            "2": 0.0198,
+            "3": 0.0099
+          }
+        },
+        {
+          "id": "EB03-060",
+          "lists": 2,
+          "include": 0.019801980198019802,
+          "avg": 0.06,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.0198,
+            "2": 0.0198,
+            "3": 0.0099,
+            "4": 0.0099
+          }
+        },
+        {
+          "id": "OP11-048",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.04,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.0099,
+            "2": 0.0099,
+            "3": 0.0099,
+            "4": 0.0099
+          }
+        },
+        {
+          "id": "OP12-119",
+          "lists": 2,
+          "include": 0.019801980198019802,
+          "avg": 0.04,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.0198,
+            "2": 0.0198
+          }
+        },
+        {
+          "id": "OP15-108",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.04,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.0099,
+            "2": 0.0099,
+            "3": 0.0099,
+            "4": 0.0099
+          }
+        },
+        {
+          "id": "OP15-116",
+          "lists": 4,
+          "include": 0.039603960396039604,
+          "avg": 0.04,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0396
+          }
+        },
+        {
+          "id": "ST29-004",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.04,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.0099,
+            "2": 0.0099,
+            "3": 0.0099,
+            "4": 0.0099
+          }
+        },
+        {
+          "id": "OP07-107",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.03,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.0099,
+            "2": 0.0099,
+            "3": 0.0099
+          }
+        },
+        {
+          "id": "OP16-104",
+          "lists": 2,
+          "include": 0.019801980198019802,
+          "avg": 0.03,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.0198,
+            "2": 0.0099
+          }
+        },
+        {
+          "id": "EB01-059",
+          "lists": 2,
+          "include": 0.019801980198019802,
+          "avg": 0.02,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0198
+          }
+        },
+        {
+          "id": "OP03-048",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.02,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.0099,
+            "2": 0.0099
+          }
+        },
+        {
+          "id": "OP08-050",
+          "lists": 2,
+          "include": 0.019801980198019802,
+          "avg": 0.02,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0198
+          }
+        },
+        {
+          "id": "OP11-060",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.02,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.0099,
+            "2": 0.0099
+          }
+        },
+        {
+          "id": "OP16-116",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.02,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.0099,
+            "2": 0.0099
+          }
+        },
+        {
+          "id": "OP07-051",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.01,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0099
+          }
+        },
+        {
+          "id": "OP11-053",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.01,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0099
+          }
+        },
+        {
+          "id": "OP14-118",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.01,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0099
+          }
+        },
+        {
+          "id": "ST29-010",
+          "lists": 1,
+          "include": 0.009900990099009901,
+          "avg": 0.01,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0099
+          }
+        }
+      ],
+      "topList": {
+        "listId": 6738,
+        "player": "LA/Smile",
+        "placing": "1st",
+        "tournament": "Treasure Cup Puebla",
+        "date": "2026-07-26",
+        "url": "https://onepiece.limitlesstcg.com/decks/list/6738",
+        "leader": "OP11-041",
+        "cards": {
+          "OP14-102": 4,
+          "OP06-106": 4,
+          "OP11-106": 3,
+          "OP14-110": 4,
+          "OP14-111": 4,
+          "OP16-056": 4,
+          "OP06-104": 2,
+          "PRB02-008": 1,
+          "OP15-113": 1,
+          "EB03-053": 4,
+          "EB04-058": 4,
+          "OP15-114": 1,
+          "EB03-055": 4,
+          "OP14-104": 4,
+          "OP16-119": 2,
+          "OP13-042": 3,
+          "OP06-058": 1
+        }
+      },
+      "lists": [
+        {
+          "listId": 6738,
+          "place": 1,
+          "placing": "1st",
+          "player": "LA/Smile",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6784,
+          "place": 1,
+          "placing": "1st",
+          "player": "Chris Sok",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6749,
+          "place": 1,
+          "placing": "1st",
+          "player": "Angelo Truscello",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6620,
+          "place": 1,
+          "placing": "1st",
+          "player": "YTJJGaming",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6606,
+          "place": 1,
+          "placing": "1st",
+          "player": "Nicholas Pao",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6725,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Alejandro Villalobos",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6750,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Matteo Rimondini",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6635,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Mike",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6732,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Peligro",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6726,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Gilbert",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6453,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Imran Khan Jadoon",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6621,
+          "place": 3,
+          "placing": "3rd",
+          "player": "plasticbeachx",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6636,
+          "place": 3,
+          "placing": "3rd",
+          "player": "SPZ_Daniel",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6425,
+          "place": 4,
+          "placing": "4th",
+          "player": "Georgios Marios Bantis",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6479,
+          "place": 4,
+          "placing": "4th",
+          "player": "Sam Martinez",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6741,
+          "place": 5,
+          "placing": "5th",
+          "player": "Jose Luis Alva Cuadros",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6762,
+          "place": 5,
+          "placing": "5th",
+          "player": "JoseVi",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6623,
+          "place": 5,
+          "placing": "5th",
+          "player": "Dino",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6609,
+          "place": 5,
+          "placing": "5th",
+          "player": "SpreadOfCoconut",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6751,
+          "place": 6,
+          "placing": "6th",
+          "player": "Maurizio Intini",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6691,
+          "place": 6,
+          "placing": "6th",
+          "player": "Motzo",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6456,
+          "place": 6,
+          "placing": "6th",
+          "player": "Cazza",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6427,
+          "place": 6,
+          "placing": "6th",
+          "player": "Arman Haji-Ghassemi",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6743,
+          "place": 7,
+          "placing": "7th",
+          "player": "CS Kasper",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6763,
+          "place": 7,
+          "placing": "7th",
+          "player": "Ludox2",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6764,
+          "place": 8,
+          "placing": "8th",
+          "player": "Imran Khan Jadoon",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6790,
+          "place": 9,
+          "placing": "9th",
+          "player": "Roboskillz",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6694,
+          "place": 9,
+          "placing": "9th",
+          "player": "freddi",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6621,
+          "place": 9,
+          "placing": "9th",
+          "player": "Chris Sok",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6791,
+          "place": 10,
+          "placing": "10th",
+          "player": "Sam Hsieh",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6732,
+          "place": 10,
+          "placing": "10th",
+          "player": "Alexis Romero Soto",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6698,
+          "place": 10,
+          "placing": "10th",
+          "player": "[DO] Luigi",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6517,
+          "place": 10,
+          "placing": "10th",
+          "player": "Molliccio",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6431,
+          "place": 10,
+          "placing": "10th",
+          "player": "Fede Moltres",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6640,
+          "place": 10,
+          "placing": "10th",
+          "player": "Sam Hsieh",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6733,
+          "place": 11,
+          "placing": "11th",
+          "player": "Manuel Alejandro Canul Basto",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6781,
+          "place": 12,
+          "placing": "12th",
+          "player": "YTJJGaming",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6519,
+          "place": 12,
+          "placing": "12th",
+          "player": "Jack_Crunkie",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6462,
+          "place": 12,
+          "placing": "12th",
+          "player": "AZB BangLe",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6433,
+          "place": 12,
+          "placing": "12th",
+          "player": "Mimifix",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6795,
+          "place": 14,
+          "placing": "14th",
+          "player": "2 Lao'd",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6735,
+          "place": 14,
+          "placing": "14th",
+          "player": "Santiago",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6479,
+          "place": 14,
+          "placing": "14th",
+          "player": "Benny",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6551,
+          "place": 15,
+          "placing": "15th",
+          "player": "MaxMaxMax",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6465,
+          "place": 15,
+          "placing": "15th",
+          "player": "INTERISTASBARAZZINO",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6748,
+          "place": 16,
+          "placing": "16th",
+          "player": "Alexis Romero Soto",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6737,
+          "place": 16,
+          "placing": "16th",
+          "player": "UDT RichL",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6552,
+          "place": 16,
+          "placing": "16th",
+          "player": "Fabian Godglück",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6634,
+          "place": 16,
+          "placing": "16th",
+          "player": "Skyzlimit",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6553,
+          "place": 17,
+          "placing": "17th",
+          "player": "Timäh",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6523,
+          "place": 17,
+          "placing": "17th",
+          "player": "Human",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6467,
+          "place": 17,
+          "placing": "17th",
+          "player": "anestakis",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6715,
+          "place": 18,
+          "placing": "18th",
+          "player": "Hassan",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6554,
+          "place": 18,
+          "placing": "18th",
+          "player": "Georgios Marios Bantis",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6556,
+          "place": 20,
+          "placing": "20th",
+          "player": "NiCky",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6526,
+          "place": 20,
+          "placing": "20th",
+          "player": "Federico Mecozzi Marinangeli",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6649,
+          "place": 20,
+          "placing": "20th",
+          "player": "Saucy",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6712,
+          "place": 22,
+          "placing": "22nd",
+          "player": "Giovannino_Gamer",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6558,
+          "place": 22,
+          "placing": "22nd",
+          "player": "[P¡P] der.alpi",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6472,
+          "place": 22,
+          "placing": "22nd",
+          "player": "Martino Casazza",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6651,
+          "place": 22,
+          "placing": "22nd",
+          "player": "Bubble Out Beamer",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6708,
+          "place": 23,
+          "placing": "23rd",
+          "player": "David Sturm",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6529,
+          "place": 23,
+          "placing": "23rd",
+          "player": "Kevin",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6560,
+          "place": 24,
+          "placing": "24th",
+          "player": "Julius Schürhoff",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6479,
+          "place": 24,
+          "placing": "24th",
+          "player": "Elias Degener",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6474,
+          "place": 24,
+          "placing": "24th",
+          "player": "KDZ Silverify",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6707,
+          "place": 25,
+          "placing": "25th",
+          "player": "DennisW",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6445,
+          "place": 25,
+          "placing": "25th",
+          "player": "Zazou",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6655,
+          "place": 26,
+          "placing": "26th",
+          "player": "JJ",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6563,
+          "place": 28,
+          "placing": "28th",
+          "player": "ChrizJey [GOAT]",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6657,
+          "place": 28,
+          "placing": "28th",
+          "player": "Silly Goose",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6450,
+          "place": 29,
+          "placing": "29th",
+          "player": "vd",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6479,
+          "place": 29,
+          "placing": "29th",
+          "player": "Luigi Amato",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6448,
+          "place": 29,
+          "placing": "29th",
+          "player": "Angelo Truscello",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6710,
+          "place": 30,
+          "placing": "30th",
+          "player": "Raphael Neven",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6564,
+          "place": 30,
+          "placing": "30th",
+          "player": "Qualentin",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6453,
+          "place": 31,
+          "placing": "31st",
+          "player": "Imran Khan Jadoon",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6482,
+          "place": 32,
+          "placing": "32nd",
+          "player": "MrChant",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6450,
+          "place": 32,
+          "placing": "32nd",
+          "player": "Key",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6660,
+          "place": 32,
+          "placing": "32nd",
+          "player": "Golden Gooze",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6661,
+          "place": 33,
+          "placing": "33rd",
+          "player": "LuckyPiper",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6664,
+          "place": 36,
+          "placing": "36th",
+          "player": "MichMex",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6570,
+          "place": 39,
+          "placing": "39th",
+          "player": "Bresim",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6623,
+          "place": 39,
+          "placing": "39th",
+          "player": "Dino",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6666,
+          "place": 40,
+          "placing": "40th",
+          "player": "FinnaTCG",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6571,
+          "place": 41,
+          "placing": "41st",
+          "player": "Raphael Neven",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6668,
+          "place": 42,
+          "placing": "42nd",
+          "player": "Elan Liila-Fogarty",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6672,
+          "place": 46,
+          "placing": "46th",
+          "player": "TheMuffinMan",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6657,
+          "place": 47,
+          "placing": "47th",
+          "player": "Gum-Gum Three Sword Jambe",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6579,
+          "place": 49,
+          "placing": "49th",
+          "player": "[SB] Micks701",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6580,
+          "place": 50,
+          "placing": "50th",
+          "player": "Motzo",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6675,
+          "place": 50,
+          "placing": "50th",
+          "player": "I eat dogs",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6556,
+          "place": 51,
+          "placing": "51st",
+          "player": "NiCky",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6582,
+          "place": 53,
+          "placing": "53rd",
+          "player": "SSL ACHLANE",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6583,
+          "place": 54,
+          "placing": "54th",
+          "player": "Saisho",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6584,
+          "place": 55,
+          "placing": "55th",
+          "player": "Maurizio Intini",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6586,
+          "place": 57,
+          "placing": "57th",
+          "player": "Greenz",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6685,
+          "place": 60,
+          "placing": "60th",
+          "player": "Kahlui",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6591,
+          "place": 62,
+          "placing": "62nd",
+          "player": "JGBLINBUS",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6687,
+          "place": 62,
+          "placing": "62nd",
+          "player": "Hunter C",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6593,
+          "place": 64,
+          "placing": "64th",
+          "player": "Viktorjj",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Purple Enel",
+      "leader": "OP15-058",
+      "leaderVariants": [],
+      "share": 0.2324,
+      "points": 1170,
+      "deckCount": 89,
+      "skippedLists": 0,
+      "consensus": {
+        "OP05-077": 3,
+        "OP12-071": 4,
+        "OP13-076": 1,
+        "OP15-061": 4,
+        "OP15-067": 4,
+        "OP15-074": 3,
+        "OP15-075": 4,
+        "OP15-076": 4,
+        "OP15-077": 4,
+        "OP15-078": 4,
+        "OP15-118": 4,
+        "OP10-067": 2,
+        "OP12-063": 4,
+        "OP09-072": 3,
+        "OP15-066": 2
+      },
+      "core": {
+        "OP05-077": 3,
+        "OP12-071": 3,
+        "OP13-076": 1,
+        "OP15-061": 4,
+        "OP15-067": 4,
+        "OP15-074": 2,
+        "OP15-075": 4,
+        "OP15-076": 4,
+        "OP15-077": 4,
+        "OP15-078": 4,
+        "OP15-118": 4,
+        "OP10-067": 1,
+        "OP12-063": 2,
+        "OP09-072": 1
+      },
+      "coreSlots": 41,
+      "flexSlots": 9,
+      "contenders": [
+        {
+          "id": "OP09-072",
+          "copy": 2,
+          "weight": 0.8989,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-074",
+          "copy": 3,
+          "weight": 0.8764,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-071",
+          "copy": 4,
+          "weight": 0.8764,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-063",
+          "copy": 3,
+          "weight": 0.8315,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-066",
+          "copy": 1,
+          "weight": 0.618,
+          "inConsensus": true
+        },
+        {
+          "id": "OP10-067",
+          "copy": 2,
+          "weight": 0.573,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-063",
+          "copy": 4,
+          "weight": 0.5281,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-066",
+          "copy": 2,
+          "weight": 0.4831,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-072",
+          "copy": 3,
+          "weight": 0.4494,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-071",
+          "copy": 1,
+          "weight": 0.4382,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-071",
+          "copy": 2,
+          "weight": 0.4382,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-071",
+          "copy": 3,
+          "weight": 0.3933,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-060",
+          "copy": 1,
+          "weight": 0.3146,
+          "inConsensus": false
+        },
+        {
+          "id": "ST10-010",
+          "copy": 1,
+          "weight": 0.2921,
+          "inConsensus": false
+        },
+        {
+          "id": "OP13-076",
+          "copy": 2,
+          "weight": 0.2697,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-074",
+          "copy": 4,
+          "weight": 0.2697,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-071",
+          "copy": 4,
+          "weight": 0.191,
+          "inConsensus": false
+        }
+      ],
+      "cards": [
+        {
+          "id": "OP15-061",
+          "lists": 89,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-067",
+          "lists": 89,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-075",
+          "lists": 89,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-076",
+          "lists": 89,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-077",
+          "lists": 89,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-078",
+          "lists": 89,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-118",
+          "lists": 89,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP12-071",
+          "lists": 89,
+          "include": 1,
+          "avg": 3.84,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 0.9663,
+            "4": 0.8764
+          }
+        },
+        {
+          "id": "OP12-063",
+          "lists": 85,
+          "include": 0.9550561797752809,
+          "avg": 3.25,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9551,
+            "2": 0.9326,
+            "3": 0.8315,
+            "4": 0.5281
+          }
+        },
+        {
+          "id": "OP15-074",
+          "lists": 89,
+          "include": 1,
+          "avg": 3.13,
+          "modal": 3,
+          "atLeast": {
+            "1": 1,
+            "2": 0.9888,
+            "3": 0.8764,
+            "4": 0.2697
+          }
+        },
+        {
+          "id": "OP05-077",
+          "lists": 89,
+          "include": 1,
+          "avg": 3,
+          "modal": 3,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 0.9775,
+            "4": 0.0225
+          }
+        },
+        {
+          "id": "OP09-072",
+          "lists": 83,
+          "include": 0.9325842696629213,
+          "avg": 2.31,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.9326,
+            "2": 0.8989,
+            "3": 0.4494,
+            "4": 0.0337
+          }
+        },
+        {
+          "id": "OP10-067",
+          "lists": 85,
+          "include": 0.9550561797752809,
+          "avg": 1.61,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.9551,
+            "2": 0.573,
+            "3": 0.0787
+          }
+        },
+        {
+          "id": "OP15-071",
+          "lists": 39,
+          "include": 0.43820224719101125,
+          "avg": 1.46,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.4382,
+            "2": 0.4382,
+            "3": 0.3933,
+            "4": 0.191
+          }
+        },
+        {
+          "id": "OP13-076",
+          "lists": 89,
+          "include": 1,
+          "avg": 1.27,
+          "modal": 1,
+          "atLeast": {
+            "1": 1,
+            "2": 0.2697
+          }
+        },
+        {
+          "id": "OP15-066",
+          "lists": 55,
+          "include": 0.6179775280898876,
+          "avg": 1.25,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.618,
+            "2": 0.4831,
+            "3": 0.1124,
+            "4": 0.0337
+          }
+        },
+        {
+          "id": "OP15-060",
+          "lists": 28,
+          "include": 0.3146067415730337,
+          "avg": 0.33,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.3146,
+            "2": 0.0112
+          }
+        },
+        {
+          "id": "ST10-010",
+          "lists": 26,
+          "include": 0.29213483146067415,
+          "avg": 0.3,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.2921,
+            "2": 0.0112
+          }
+        },
+        {
+          "id": "OP09-077",
+          "lists": 11,
+          "include": 0.12359550561797752,
+          "avg": 0.15,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1236,
+            "2": 0.0225
+          }
+        },
+        {
+          "id": "OP07-064",
+          "lists": 7,
+          "include": 0.07865168539325842,
+          "avg": 0.1,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0787,
+            "2": 0.0225
+          }
+        }
+      ],
+      "topList": {
+        "listId": 6345,
+        "player": "Fabian Godglück",
+        "placing": "1st",
+        "tournament": "Treasure Cup Utrecht",
+        "date": "2026-07-12",
+        "url": "https://onepiece.limitlesstcg.com/decks/list/6345",
+        "leader": "OP15-058",
+        "cards": {
+          "OP12-071": 4,
+          "OP15-061": 4,
+          "OP15-067": 4,
+          "OP15-066": 2,
+          "OP12-063": 4,
+          "OP09-072": 3,
+          "OP10-067": 2,
+          "OP15-118": 4,
+          "OP15-075": 4,
+          "OP15-076": 4,
+          "OP15-077": 4,
+          "OP15-078": 4,
+          "OP15-074": 3,
+          "OP13-076": 1,
+          "OP05-077": 3
+        }
+      },
+      "lists": [
+        {
+          "listId": 6345,
+          "place": 1,
+          "placing": "1st",
+          "player": "Fabian Godglück",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6508,
+          "place": 1,
+          "placing": "1st",
+          "player": "Luka Forjan",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6422,
+          "place": 1,
+          "placing": "1st",
+          "player": "Giorgio Saraniero",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6739,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Jcobs",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6345,
+          "place": 2,
+          "placing": "2nd",
+          "player": "gary h",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6772,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Jqcbozz",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6508,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Luka Forjan",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6607,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Richard Yam",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6345,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Luka Forjan",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6716,
+          "place": 3,
+          "placing": "3rd",
+          "player": "LordRafa",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6345,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Giovanni Salvatore Oliva",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6740,
+          "place": 4,
+          "placing": "4th",
+          "player": "Celes [WL]",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6727,
+          "place": 4,
+          "placing": "4th",
+          "player": "Matias Castro",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6345,
+          "place": 4,
+          "placing": "4th",
+          "player": "Fabian Godglück",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6434,
+          "place": 4,
+          "placing": "4th",
+          "player": "Tairsu",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6345,
+          "place": 4,
+          "placing": "4th",
+          "player": "Gaston Buhler",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6607,
+          "place": 4,
+          "placing": "4th",
+          "player": "Eric Quintana",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6728,
+          "place": 5,
+          "placing": "5th",
+          "player": "Néstor Iván Rivera Espinosa",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6774,
+          "place": 5,
+          "placing": "5th",
+          "player": "RD Wyzguy",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6512,
+          "place": 5,
+          "placing": "5th",
+          "player": "Georgios Karapiperis",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6455,
+          "place": 5,
+          "placing": "5th",
+          "player": "Jcobs",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6728,
+          "place": 6,
+          "placing": "6th",
+          "player": "Sandro Kišur",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6638,
+          "place": 6,
+          "placing": "6th",
+          "player": "Capt_Karoo",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6775,
+          "place": 6,
+          "placing": "6th",
+          "player": "[T3] Egoist.Tofu",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6345,
+          "place": 6,
+          "placing": "6th",
+          "player": "Moo",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6638,
+          "place": 6,
+          "placing": "6th",
+          "player": "Marco",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6752,
+          "place": 7,
+          "placing": "7th",
+          "player": "Jan Birkemeyer",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6693,
+          "place": 7,
+          "placing": "7th",
+          "player": "EiJunCHN",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6514,
+          "place": 7,
+          "placing": "7th",
+          "player": "Enma",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6345,
+          "place": 8,
+          "placing": "8th",
+          "player": "Cameron Varden",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6730,
+          "place": 8,
+          "placing": "8th",
+          "player": "GutyXD",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6585,
+          "place": 8,
+          "placing": "8th",
+          "player": "Abyssausrede",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6429,
+          "place": 8,
+          "placing": "8th",
+          "player": "SergioMaes",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6626,
+          "place": 8,
+          "placing": "8th",
+          "player": "Take",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6611,
+          "place": 8,
+          "placing": "8th",
+          "player": "Sparky",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6727,
+          "place": 9,
+          "placing": "9th",
+          "player": "Matias Castro",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6422,
+          "place": 9,
+          "placing": "9th",
+          "player": "Juan Méndez Casado",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6459,
+          "place": 9,
+          "placing": "9th",
+          "player": "SSL AlexDo",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6612,
+          "place": 9,
+          "placing": "9th",
+          "player": "Gerald Orrison",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6755,
+          "place": 10,
+          "placing": "10th",
+          "player": "SSL AlexDo",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6460,
+          "place": 10,
+          "placing": "10th",
+          "player": "Kevin Le",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6613,
+          "place": 10,
+          "placing": "10th",
+          "player": "gary h",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6766,
+          "place": 11,
+          "placing": "11th",
+          "player": "Georgios Karapiperis",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6573,
+          "place": 11,
+          "placing": "11th",
+          "player": "Stathis Vastardis",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6638,
+          "place": 11,
+          "placing": "11th",
+          "player": "Cameron Varden",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6638,
+          "place": 12,
+          "placing": "12th",
+          "player": "Sam Martinez",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6756,
+          "place": 12,
+          "placing": "12th",
+          "player": "Roberto",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6630,
+          "place": 12,
+          "placing": "12th",
+          "player": "Victiny",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6349,
+          "place": 13,
+          "placing": "13th",
+          "player": "Gianluca Noviello",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6669,
+          "place": 13,
+          "placing": "13th",
+          "player": "RADIANT TRADER",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6434,
+          "place": 13,
+          "placing": "13th",
+          "player": "Balanced",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6422,
+          "place": 13,
+          "placing": "13th",
+          "player": "Juan Méndez Casado",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6422,
+          "place": 13,
+          "placing": "13th",
+          "player": "Juan Méndez Casado",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6434,
+          "place": 13,
+          "placing": "13th",
+          "player": "Tairsu",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6631,
+          "place": 13,
+          "placing": "13th",
+          "player": "Michael Tal",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6616,
+          "place": 13,
+          "placing": "13th",
+          "player": "Michael Tal",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6689,
+          "place": 14,
+          "placing": "14th",
+          "player": "bornax10",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6696,
+          "place": 14,
+          "placing": "14th",
+          "player": "Leo",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6728,
+          "place": 15,
+          "placing": "15th",
+          "player": "CS Donquixote Dochinitos",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6759,
+          "place": 15,
+          "placing": "15th",
+          "player": "Petridis Georgios",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6722,
+          "place": 15,
+          "placing": "15th",
+          "player": "Meikel",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6436,
+          "place": 15,
+          "placing": "15th",
+          "player": "Thomas Biero",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6699,
+          "place": 16,
+          "placing": "16th",
+          "player": "Wrtx",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6422,
+          "place": 16,
+          "placing": "16th",
+          "player": "Juan Méndez Casado",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6619,
+          "place": 16,
+          "placing": "16th",
+          "player": "tira",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6468,
+          "place": 18,
+          "placing": "18th",
+          "player": "Jared Tsirides",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6647,
+          "place": 18,
+          "placing": "18th",
+          "player": "Picantejosey",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6440,
+          "place": 20,
+          "placing": "20th",
+          "player": "Darnielop",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6528,
+          "place": 22,
+          "placing": "22nd",
+          "player": "Brian Kaiser",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6443,
+          "place": 23,
+          "placing": "23rd",
+          "player": "Abyssausrede",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6652,
+          "place": 23,
+          "placing": "23rd",
+          "player": "RADIANT TRADER",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6653,
+          "place": 24,
+          "placing": "24th",
+          "player": "Bahn",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6705,
+          "place": 26,
+          "placing": "26th",
+          "player": "Javi Ortiz",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6446,
+          "place": 27,
+          "placing": "27th",
+          "player": "Electro",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6656,
+          "place": 27,
+          "placing": "27th",
+          "player": "Ultrajethro",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6481,
+          "place": 31,
+          "placing": "31st",
+          "player": "Giovanni Salvatore Oliva",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6566,
+          "place": 32,
+          "placing": "32nd",
+          "player": "LØREN",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6434,
+          "place": 36,
+          "placing": "36th",
+          "player": "Balanced",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6460,
+          "place": 40,
+          "placing": "40th",
+          "player": "Kevin Le",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6667,
+          "place": 41,
+          "placing": "41st",
+          "player": "NickMapes8",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6573,
+          "place": 43,
+          "placing": "43rd",
+          "player": "Stathis Vastardis",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6669,
+          "place": 43,
+          "placing": "43rd",
+          "player": "Gerardo Lopez",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6673,
+          "place": 48,
+          "placing": "48th",
+          "player": "[T3] Egoist.Tofu",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6674,
+          "place": 49,
+          "placing": "49th",
+          "player": "deeloo98",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6677,
+          "place": 52,
+          "placing": "52nd",
+          "player": "Dsteuer",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6585,
+          "place": 56,
+          "placing": "56th",
+          "player": "Abyssausrede",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6681,
+          "place": 56,
+          "placing": "56th",
+          "player": "Blozzay",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6686,
+          "place": 61,
+          "placing": "61st",
+          "player": "Heyzeuz",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6689,
+          "place": 64,
+          "placing": "64th",
+          "player": "Tyler",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Green/Blue Luffy",
+      "leader": "OP16-022",
+      "leaderVariants": [],
+      "share": 0.2223,
+      "points": 1119,
+      "deckCount": 87,
+      "skippedLists": 0,
+      "consensus": {
+        "OP16-032": 3,
+        "OP16-034": 4,
+        "OP16-038": 2,
+        "OP16-042": 9,
+        "OP16-045": 4,
+        "OP16-048": 4,
+        "OP16-054": 4,
+        "OP16-055": 4,
+        "OP16-056": 4,
+        "ST30-014": 3,
+        "OP15-032": 1,
+        "OP16-026": 2,
+        "OP06-058": 2,
+        "OP02-068": 1,
+        "OP12-037": 1,
+        "ST12-010": 2
+      },
+      "core": {
+        "OP16-032": 2,
+        "OP16-034": 4,
+        "OP16-038": 2,
+        "OP16-042": 8,
+        "OP16-045": 3,
+        "OP16-048": 4,
+        "OP16-054": 4,
+        "OP16-055": 4,
+        "OP16-056": 4,
+        "ST30-014": 2
+      },
+      "coreSlots": 37,
+      "flexSlots": 13,
+      "contenders": [
+        {
+          "id": "OP15-032",
+          "copy": 1,
+          "weight": 0.8851,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-026",
+          "copy": 1,
+          "weight": 0.8736,
+          "inConsensus": true
+        },
+        {
+          "id": "OP06-058",
+          "copy": 1,
+          "weight": 0.8621,
+          "inConsensus": true
+        },
+        {
+          "id": "OP02-068",
+          "copy": 1,
+          "weight": 0.8391,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-026",
+          "copy": 2,
+          "weight": 0.7816,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-045",
+          "copy": 4,
+          "weight": 0.7126,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-032",
+          "copy": 3,
+          "weight": 0.6897,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-037",
+          "copy": 1,
+          "weight": 0.6667,
+          "inConsensus": true
+        },
+        {
+          "id": "OP06-058",
+          "copy": 2,
+          "weight": 0.6092,
+          "inConsensus": true
+        },
+        {
+          "id": "ST30-014",
+          "copy": 3,
+          "weight": 0.5862,
+          "inConsensus": true
+        },
+        {
+          "id": "ST12-010",
+          "copy": 1,
+          "weight": 0.5402,
+          "inConsensus": true
+        },
+        {
+          "id": "ST12-010",
+          "copy": 2,
+          "weight": 0.5287,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-042",
+          "copy": 9,
+          "weight": 0.4713,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-026",
+          "copy": 3,
+          "weight": 0.3678,
+          "inConsensus": false
+        },
+        {
+          "id": "OP13-040",
+          "copy": 1,
+          "weight": 0.3563,
+          "inConsensus": false
+        },
+        {
+          "id": "OP11-061",
+          "copy": 1,
+          "weight": 0.2989,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-027",
+          "copy": 1,
+          "weight": 0.2989,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-032",
+          "copy": 2,
+          "weight": 0.2874,
+          "inConsensus": false
+        },
+        {
+          "id": "OP08-036",
+          "copy": 1,
+          "weight": 0.2184,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-037",
+          "copy": 1,
+          "weight": 0.2069,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-038",
+          "copy": 3,
+          "weight": 0.1839,
+          "inConsensus": false
+        },
+        {
+          "id": "ST30-012",
+          "copy": 1,
+          "weight": 0.1724,
+          "inConsensus": false
+        },
+        {
+          "id": "ST12-010",
+          "copy": 3,
+          "weight": 0.1724,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-027",
+          "copy": 2,
+          "weight": 0.1609,
+          "inConsensus": false
+        }
+      ],
+      "cards": [
+        {
+          "id": "OP16-042",
+          "lists": 87,
+          "include": 1,
+          "avg": 8.51,
+          "modal": 8,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1,
+            "5": 1,
+            "6": 1,
+            "7": 1,
+            "8": 1,
+            "9": 0.4713,
+            "10": 0.0345
+          }
+        },
+        {
+          "id": "OP16-034",
+          "lists": 87,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-048",
+          "lists": 87,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-054",
+          "lists": 87,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-055",
+          "lists": 87,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-056",
+          "lists": 87,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-045",
+          "lists": 87,
+          "include": 1,
+          "avg": 3.69,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 0.977,
+            "4": 0.7126
+          }
+        },
+        {
+          "id": "ST30-014",
+          "lists": 87,
+          "include": 1,
+          "avg": 2.7,
+          "modal": 3,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 0.5862,
+            "4": 0.1149
+          }
+        },
+        {
+          "id": "OP16-032",
+          "lists": 87,
+          "include": 1,
+          "avg": 2.68,
+          "modal": 3,
+          "atLeast": {
+            "1": 1,
+            "2": 0.977,
+            "3": 0.6897,
+            "4": 0.0115
+          }
+        },
+        {
+          "id": "OP16-038",
+          "lists": 87,
+          "include": 1,
+          "avg": 2.17,
+          "modal": 2,
+          "atLeast": {
+            "1": 1,
+            "2": 0.954,
+            "3": 0.1839,
+            "4": 0.0345
+          }
+        },
+        {
+          "id": "OP16-026",
+          "lists": 76,
+          "include": 0.8735632183908046,
+          "avg": 2.11,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.8736,
+            "2": 0.7816,
+            "3": 0.3678,
+            "4": 0.092
+          }
+        },
+        {
+          "id": "OP06-058",
+          "lists": 75,
+          "include": 0.8620689655172413,
+          "avg": 1.55,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.8621,
+            "2": 0.6092,
+            "3": 0.0805
+          }
+        },
+        {
+          "id": "ST12-010",
+          "lists": 47,
+          "include": 0.5402298850574713,
+          "avg": 1.33,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.5402,
+            "2": 0.5287,
+            "3": 0.1724,
+            "4": 0.092
+          }
+        },
+        {
+          "id": "OP15-032",
+          "lists": 77,
+          "include": 0.8850574712643678,
+          "avg": 1.17,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.8851,
+            "2": 0.2874
+          }
+        },
+        {
+          "id": "OP02-068",
+          "lists": 73,
+          "include": 0.8390804597701149,
+          "avg": 0.85,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.8391,
+            "2": 0.0115
+          }
+        },
+        {
+          "id": "OP12-037",
+          "lists": 58,
+          "include": 0.6666666666666666,
+          "avg": 0.74,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.6667,
+            "2": 0.069
+          }
+        },
+        {
+          "id": "OP13-040",
+          "lists": 31,
+          "include": 0.3563218390804598,
+          "avg": 0.53,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.3563,
+            "2": 0.1379,
+            "3": 0.0345
+          }
+        },
+        {
+          "id": "OP16-027",
+          "lists": 26,
+          "include": 0.2988505747126437,
+          "avg": 0.47,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.2989,
+            "2": 0.1609,
+            "3": 0.0115
+          }
+        },
+        {
+          "id": "OP08-036",
+          "lists": 19,
+          "include": 0.21839080459770116,
+          "avg": 0.38,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.2184,
+            "2": 0.1264,
+            "3": 0.0345
+          }
+        },
+        {
+          "id": "OP11-061",
+          "lists": 26,
+          "include": 0.2988505747126437,
+          "avg": 0.34,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.2989,
+            "2": 0.046
+          }
+        },
+        {
+          "id": "OP16-037",
+          "lists": 18,
+          "include": 0.20689655172413793,
+          "avg": 0.24,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.2069,
+            "2": 0.0345
+          }
+        },
+        {
+          "id": "ST30-012",
+          "lists": 15,
+          "include": 0.1724137931034483,
+          "avg": 0.21,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1724,
+            "2": 0.0345
+          }
+        },
+        {
+          "id": "EB01-028",
+          "lists": 12,
+          "include": 0.13793103448275862,
+          "avg": 0.16,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1379,
+            "2": 0.0115,
+            "3": 0.0115
+          }
+        },
+        {
+          "id": "OP06-038",
+          "lists": 4,
+          "include": 0.04597701149425287,
+          "avg": 0.07,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.046,
+            "2": 0.023
+          }
+        },
+        {
+          "id": "OP16-050",
+          "lists": 4,
+          "include": 0.04597701149425287,
+          "avg": 0.05,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.046
+          }
+        },
+        {
+          "id": "OP11-049",
+          "lists": 1,
+          "include": 0.011494252873563218,
+          "avg": 0.02,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.0115,
+            "2": 0.0115
+          }
+        },
+        {
+          "id": "OP12-038",
+          "lists": 2,
+          "include": 0.022988505747126436,
+          "avg": 0.02,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.023
+          }
+        }
+      ],
+      "topList": {
+        "listId": 6697,
+        "player": "Gabi313",
+        "placing": "1st",
+        "tournament": "Treasure Cup Sofia",
+        "date": "2026-07-26",
+        "url": "https://onepiece.limitlesstcg.com/decks/list/6697",
+        "leader": "OP16-022",
+        "cards": {
+          "OP16-034": 4,
+          "OP16-054": 4,
+          "OP16-055": 4,
+          "ST30-014": 3,
+          "ST12-010": 2,
+          "OP16-045": 4,
+          "OP16-056": 4,
+          "OP16-026": 2,
+          "OP16-048": 4,
+          "OP16-042": 9,
+          "OP15-032": 1,
+          "OP16-032": 2,
+          "OP02-068": 1,
+          "OP16-038": 2,
+          "OP12-037": 1,
+          "OP11-061": 1,
+          "OP06-058": 2
+        }
+      },
+      "lists": [
+        {
+          "listId": 6697,
+          "place": 1,
+          "placing": "1st",
+          "player": "Gabi313",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6724,
+          "place": 1,
+          "placing": "1st",
+          "player": "Joshua Graham",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6771,
+          "place": 1,
+          "placing": "1st",
+          "player": "[T3] Howie.TOFU",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6537,
+          "place": 1,
+          "placing": "1st",
+          "player": "Hrvoje Hedžet",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6451,
+          "place": 1,
+          "placing": "1st",
+          "player": "David Melendo Villena",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6537,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Syuge",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6538,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Žan Kralj",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6753,
+          "place": 3,
+          "placing": "3rd",
+          "player": "ΜΣΦΡ Feno",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6785,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Mingoo",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6510,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Sammy Wang",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6510,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Sammy Wang",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6424,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Pere Arbós Parets",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6786,
+          "place": 4,
+          "placing": "4th",
+          "player": "Alex Blood",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6773,
+          "place": 4,
+          "placing": "4th",
+          "player": "Grimjah189",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6540,
+          "place": 4,
+          "placing": "4th",
+          "player": "Hendrok",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6637,
+          "place": 5,
+          "placing": "5th",
+          "player": "Roy Choi",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6742,
+          "place": 6,
+          "placing": "6th",
+          "player": "Zalo",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6513,
+          "place": 6,
+          "placing": "6th",
+          "player": "Cameron Varden",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6624,
+          "place": 6,
+          "placing": "6th",
+          "player": "Noobingitup [CBP]{WFB}",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6718,
+          "place": 7,
+          "placing": "7th",
+          "player": "esteveg7",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6428,
+          "place": 7,
+          "placing": "7th",
+          "player": "Gaston Buhler",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6753,
+          "place": 8,
+          "placing": "8th",
+          "player": "ΜΣΦΡ Feno",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6777,
+          "place": 8,
+          "placing": "8th",
+          "player": "PhoneWalletKeys",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6515,
+          "place": 8,
+          "placing": "8th",
+          "player": "Coolman",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6458,
+          "place": 8,
+          "placing": "8th",
+          "player": "Fabio Montresor",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6516,
+          "place": 9,
+          "placing": "9th",
+          "player": "Deniz Plantikow",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6779,
+          "place": 10,
+          "placing": "10th",
+          "player": "Tyler T",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6720,
+          "place": 10,
+          "placing": "10th",
+          "player": "Akris01",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6546,
+          "place": 10,
+          "placing": "10th",
+          "player": "Beton112",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6792,
+          "place": 11,
+          "placing": "11th",
+          "player": "Joshua Cao",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6697,
+          "place": 11,
+          "placing": "11th",
+          "player": "Pako",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6518,
+          "place": 11,
+          "placing": "11th",
+          "player": "Georgios Militsopoulos",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6461,
+          "place": 11,
+          "placing": "11th",
+          "player": "Quentin",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6432,
+          "place": 11,
+          "placing": "11th",
+          "player": "Mirco Morscio",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6767,
+          "place": 12,
+          "placing": "12th",
+          "player": "Luca Caré",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6548,
+          "place": 12,
+          "placing": "12th",
+          "player": "holgair41",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6746,
+          "place": 13,
+          "placing": "13th",
+          "player": "[FM] Yoshimitsu",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6757,
+          "place": 13,
+          "placing": "13th",
+          "player": "Condemor",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6549,
+          "place": 13,
+          "placing": "13th",
+          "player": "Mateusz Bednarczyk",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6463,
+          "place": 13,
+          "placing": "13th",
+          "player": "olaf",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6747,
+          "place": 14,
+          "placing": "14th",
+          "player": "Frankopolus",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6435,
+          "place": 14,
+          "placing": "14th",
+          "player": "Hrvoje Hedžet",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6769,
+          "place": 15,
+          "placing": "15th",
+          "player": "Bartosz Kosmacz",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6736,
+          "place": 15,
+          "placing": "15th",
+          "player": "Aijao 13",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6633,
+          "place": 15,
+          "placing": "15th",
+          "player": "SStorm",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6770,
+          "place": 16,
+          "placing": "16th",
+          "player": "Morscinho",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6760,
+          "place": 16,
+          "placing": "16th",
+          "player": "Kuba",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6723,
+          "place": 16,
+          "placing": "16th",
+          "player": "Angelo Truscello",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6522,
+          "place": 16,
+          "placing": "16th",
+          "player": "momi961",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6466,
+          "place": 16,
+          "placing": "16th",
+          "player": "Sergio",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6645,
+          "place": 16,
+          "placing": "16th",
+          "player": "TSOA",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6537,
+          "place": 17,
+          "placing": "17th",
+          "player": "Emre5494",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6437,
+          "place": 17,
+          "placing": "17th",
+          "player": "Matteo Rimondini",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6524,
+          "place": 18,
+          "placing": "18th",
+          "player": "zacowner",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6438,
+          "place": 18,
+          "placing": "18th",
+          "player": "Guillaume Bouin",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6713,
+          "place": 19,
+          "placing": "19th",
+          "player": "JenteVH",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6555,
+          "place": 19,
+          "placing": "19th",
+          "player": "Mirco Morscio",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6525,
+          "place": 19,
+          "placing": "19th",
+          "player": "Clément Tassa",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6557,
+          "place": 21,
+          "placing": "21st",
+          "player": "Patpat",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6527,
+          "place": 21,
+          "placing": "21st",
+          "player": "Thomzong",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6441,
+          "place": 21,
+          "placing": "21st",
+          "player": "Inaff",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6559,
+          "place": 23,
+          "placing": "23rd",
+          "player": "Thanh Chi Nguyen",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6473,
+          "place": 23,
+          "placing": "23rd",
+          "player": "Xixo",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6711,
+          "place": 24,
+          "placing": "24th",
+          "player": "Luca Caré",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6561,
+          "place": 25,
+          "placing": "25th",
+          "player": "Laimonas Stančaitis",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6530,
+          "place": 25,
+          "placing": "25th",
+          "player": "Corentin",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6475,
+          "place": 25,
+          "placing": "25th",
+          "player": "Benjamin Gayraud",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6476,
+          "place": 26,
+          "placing": "26th",
+          "player": "Voice",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6702,
+          "place": 27,
+          "placing": "27th",
+          "player": "Hungry",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6562,
+          "place": 27,
+          "placing": "27th",
+          "player": "Elijah Quinby",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6532,
+          "place": 27,
+          "placing": "27th",
+          "player": "Ali Kadouh",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6477,
+          "place": 27,
+          "placing": "27th",
+          "player": "Roberto Rondino",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6703,
+          "place": 28,
+          "placing": "28th",
+          "player": "Yosh",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6447,
+          "place": 28,
+          "placing": "28th",
+          "player": "Pingu",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6535,
+          "place": 30,
+          "placing": "30th",
+          "player": "SlimShady",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6709,
+          "place": 31,
+          "placing": "31st",
+          "player": "Babbo8x",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6659,
+          "place": 31,
+          "placing": "31st",
+          "player": "Tyler Collier",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6536,
+          "place": 32,
+          "placing": "32nd",
+          "player": "Andreas Harsche",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6567,
+          "place": 33,
+          "placing": "33rd",
+          "player": "Andrea Zanotti",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6569,
+          "place": 37,
+          "placing": "37th",
+          "player": "Mateusz Bednarczyk",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6665,
+          "place": 37,
+          "placing": "37th",
+          "player": "Jonathan Job",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6538,
+          "place": 38,
+          "placing": "38th",
+          "player": "Žan Kralj",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6574,
+          "place": 44,
+          "placing": "44th",
+          "player": "Florian",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6576,
+          "place": 46,
+          "placing": "46th",
+          "player": "Kevin Zhao",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6676,
+          "place": 51,
+          "placing": "51st",
+          "player": "ofei",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6678,
+          "place": 53,
+          "placing": "53rd",
+          "player": "Goblin",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6588,
+          "place": 59,
+          "placing": "59th",
+          "player": "Matteo Rimondini",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Black/Yellow Blackbeard",
+      "leader": "OP16-080",
+      "leaderVariants": [],
+      "share": 0.0876,
+      "points": 441,
+      "deckCount": 34,
+      "skippedLists": 0,
+      "consensus": {
+        "EB04-058": 4,
+        "OP09-093": 4,
+        "OP16-104": 4,
+        "OP16-108": 4,
+        "OP16-110": 4,
+        "OP16-116": 2,
+        "OP16-119": 4,
+        "OP16-106": 2,
+        "OP09-099": 4,
+        "OP16-109": 4,
+        "OP09-096": 4,
+        "OP09-086": 4,
+        "OP16-103": 2,
+        "OP12-112": 2,
+        "OP09-095": 2
+      },
+      "core": {
+        "EB04-058": 3,
+        "OP09-093": 3,
+        "OP16-104": 4,
+        "OP16-108": 4,
+        "OP16-110": 4,
+        "OP16-116": 2,
+        "OP16-119": 4,
+        "OP16-106": 1,
+        "OP09-099": 3,
+        "OP16-109": 2,
+        "OP09-096": 2
+      },
+      "coreSlots": 32,
+      "flexSlots": 18,
+      "contenders": [
+        {
+          "id": "EB04-058",
+          "copy": 4,
+          "weight": 0.8824,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-086",
+          "copy": 1,
+          "weight": 0.8529,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-086",
+          "copy": 2,
+          "weight": 0.8529,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-086",
+          "copy": 3,
+          "weight": 0.8529,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-099",
+          "copy": 4,
+          "weight": 0.8529,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-109",
+          "copy": 3,
+          "weight": 0.7941,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-106",
+          "copy": 2,
+          "weight": 0.7647,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-096",
+          "copy": 3,
+          "weight": 0.7353,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-103",
+          "copy": 1,
+          "weight": 0.6471,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-086",
+          "copy": 4,
+          "weight": 0.6176,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-096",
+          "copy": 4,
+          "weight": 0.5882,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-112",
+          "copy": 1,
+          "weight": 0.5588,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-093",
+          "copy": 4,
+          "weight": 0.5588,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-112",
+          "copy": 2,
+          "weight": 0.5294,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-109",
+          "copy": 4,
+          "weight": 0.5294,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-095",
+          "copy": 1,
+          "weight": 0.5,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-095",
+          "copy": 2,
+          "weight": 0.4706,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-103",
+          "copy": 2,
+          "weight": 0.4706,
+          "inConsensus": true
+        },
+        {
+          "id": "OP14-112",
+          "copy": 1,
+          "weight": 0.4412,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-106",
+          "copy": 3,
+          "weight": 0.4412,
+          "inConsensus": false
+        },
+        {
+          "id": "OP12-112",
+          "copy": 3,
+          "weight": 0.3824,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-102",
+          "copy": 1,
+          "weight": 0.3529,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-115",
+          "copy": 1,
+          "weight": 0.3529,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-102",
+          "copy": 2,
+          "weight": 0.3529,
+          "inConsensus": false
+        }
+      ],
+      "cards": [
+        {
+          "id": "OP16-104",
+          "lists": 34,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-119",
+          "lists": 34,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-108",
+          "lists": 34,
+          "include": 1,
+          "avg": 3.97,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.9706
+          }
+        },
+        {
+          "id": "OP16-110",
+          "lists": 34,
+          "include": 1,
+          "avg": 3.97,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.9706
+          }
+        },
+        {
+          "id": "EB04-058",
+          "lists": 34,
+          "include": 1,
+          "avg": 3.88,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.8824
+          }
+        },
+        {
+          "id": "OP09-099",
+          "lists": 32,
+          "include": 0.9411764705882353,
+          "avg": 3.68,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9412,
+            "2": 0.9412,
+            "3": 0.9412,
+            "4": 0.8529
+          }
+        },
+        {
+          "id": "OP09-093",
+          "lists": 34,
+          "include": 1,
+          "avg": 3.56,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.5588
+          }
+        },
+        {
+          "id": "OP16-109",
+          "lists": 32,
+          "include": 0.9411764705882353,
+          "avg": 3.21,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9412,
+            "2": 0.9412,
+            "3": 0.7941,
+            "4": 0.5294
+          }
+        },
+        {
+          "id": "OP09-086",
+          "lists": 29,
+          "include": 0.8529411764705882,
+          "avg": 3.18,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.8529,
+            "2": 0.8529,
+            "3": 0.8529,
+            "4": 0.6176
+          }
+        },
+        {
+          "id": "OP09-096",
+          "lists": 31,
+          "include": 0.9117647058823529,
+          "avg": 3.15,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9118,
+            "2": 0.9118,
+            "3": 0.7353,
+            "4": 0.5882
+          }
+        },
+        {
+          "id": "OP16-106",
+          "lists": 33,
+          "include": 0.9705882352941176,
+          "avg": 2.29,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.9706,
+            "2": 0.7647,
+            "3": 0.4412,
+            "4": 0.1176
+          }
+        },
+        {
+          "id": "OP16-116",
+          "lists": 34,
+          "include": 1,
+          "avg": 2.15,
+          "modal": 2,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 0.1471
+          }
+        },
+        {
+          "id": "OP12-112",
+          "lists": 19,
+          "include": 0.5588235294117647,
+          "avg": 1.74,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.5588,
+            "2": 0.5294,
+            "3": 0.3824,
+            "4": 0.2647
+          }
+        },
+        {
+          "id": "OP16-103",
+          "lists": 22,
+          "include": 0.6470588235294118,
+          "avg": 1.44,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.6471,
+            "2": 0.4706,
+            "3": 0.2941,
+            "4": 0.0294
+          }
+        },
+        {
+          "id": "OP09-095",
+          "lists": 17,
+          "include": 0.5,
+          "avg": 1.29,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.5,
+            "2": 0.4706,
+            "3": 0.1765,
+            "4": 0.1471
+          }
+        },
+        {
+          "id": "OP16-102",
+          "lists": 12,
+          "include": 0.35294117647058826,
+          "avg": 0.88,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.3529,
+            "2": 0.3529,
+            "3": 0.1471,
+            "4": 0.0294
+          }
+        },
+        {
+          "id": "OP14-108",
+          "lists": 9,
+          "include": 0.2647058823529412,
+          "avg": 0.79,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.2647,
+            "2": 0.2647,
+            "3": 0.1765,
+            "4": 0.0882
+          }
+        },
+        {
+          "id": "OP14-112",
+          "lists": 15,
+          "include": 0.4411764705882353,
+          "avg": 0.79,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.4412,
+            "2": 0.2353,
+            "3": 0.1176
+          }
+        },
+        {
+          "id": "EB04-059",
+          "lists": 7,
+          "include": 0.20588235294117646,
+          "avg": 0.65,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.2059,
+            "2": 0.2059,
+            "3": 0.2059,
+            "4": 0.0294
+          }
+        },
+        {
+          "id": "OP15-114",
+          "lists": 7,
+          "include": 0.20588235294117646,
+          "avg": 0.5,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.2059,
+            "2": 0.2059,
+            "3": 0.0882
+          }
+        },
+        {
+          "id": "OP16-115",
+          "lists": 12,
+          "include": 0.35294117647058826,
+          "avg": 0.35,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.3529
+          }
+        },
+        {
+          "id": "OP13-113",
+          "lists": 2,
+          "include": 0.058823529411764705,
+          "avg": 0.24,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.0588,
+            "2": 0.0588,
+            "3": 0.0588,
+            "4": 0.0588
+          }
+        },
+        {
+          "id": "OP14-118",
+          "lists": 5,
+          "include": 0.14705882352941177,
+          "avg": 0.21,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1471,
+            "2": 0.0588
+          }
+        },
+        {
+          "id": "OP16-114",
+          "lists": 1,
+          "include": 0.029411764705882353,
+          "avg": 0.06,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.0294,
+            "2": 0.0294
+          }
+        },
+        {
+          "id": "OP09-097",
+          "lists": 1,
+          "include": 0.029411764705882353,
+          "avg": 0.03,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0294
+          }
+        }
+      ],
+      "topList": {
+        "listId": 6690,
+        "player": "Tom Kaiser",
+        "placing": "1st",
+        "tournament": "Regional Utrecht",
+        "date": "2026-07-11",
+        "url": "https://onepiece.limitlesstcg.com/decks/list/6690",
+        "leader": "OP16-080",
+        "cards": {
+          "OP16-110": 4,
+          "OP16-109": 3,
+          "OP16-102": 2,
+          "OP16-103": 1,
+          "OP09-086": 4,
+          "OP16-104": 4,
+          "OP16-106": 1,
+          "EB04-058": 4,
+          "OP15-114": 3,
+          "OP16-108": 4,
+          "OP16-119": 4,
+          "OP09-093": 3,
+          "OP09-096": 4,
+          "EB04-059": 3,
+          "OP16-116": 2,
+          "OP09-099": 4
+        }
+      },
+      "lists": [
+        {
+          "listId": 6690,
+          "place": 1,
+          "placing": "1st",
+          "player": "Tom Kaiser",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6761,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Klimczur",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6480,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Phi Nguyen",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6426,
+          "place": 5,
+          "placing": "5th",
+          "player": "Gianluca Di Clemente",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6788,
+          "place": 6,
+          "placing": "6th",
+          "player": "Greyson Shartzer",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6542,
+          "place": 6,
+          "placing": "6th",
+          "player": "(⌐■_■)",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6789,
+          "place": 7,
+          "placing": "7th",
+          "player": "Kyle Henriksen",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6625,
+          "place": 7,
+          "placing": "7th",
+          "player": "David@@@1",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6480,
+          "place": 7,
+          "placing": "7th",
+          "player": "TheTemplars",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6639,
+          "place": 7,
+          "placing": "7th",
+          "player": "Reza",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6480,
+          "place": 8,
+          "placing": "8th",
+          "player": "Yonas Abraham",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6731,
+          "place": 9,
+          "placing": "9th",
+          "player": "GABWONG [WL]",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6629,
+          "place": 11,
+          "placing": "11th",
+          "player": "evyn",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6745,
+          "place": 12,
+          "placing": "12th",
+          "player": "DANIEL",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6793,
+          "place": 12,
+          "placing": "12th",
+          "player": "Alexandro Montiel",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6721,
+          "place": 12,
+          "placing": "12th",
+          "player": "Yuri Del Governatore",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6734,
+          "place": 13,
+          "placing": "13th",
+          "player": "Chakal",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6642,
+          "place": 13,
+          "placing": "13th",
+          "player": "Robb",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6758,
+          "place": 14,
+          "placing": "14th",
+          "player": "傳奇Legend",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6520,
+          "place": 14,
+          "placing": "14th",
+          "player": "SenSeiKhaKhashi [GOAT]",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6464,
+          "place": 14,
+          "placing": "14th",
+          "player": "KDZ Millán",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6796,
+          "place": 15,
+          "placing": "15th",
+          "player": "[WG]Noobwin",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6782,
+          "place": 15,
+          "placing": "15th",
+          "player": "Kuma",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6618,
+          "place": 15,
+          "placing": "15th",
+          "player": "Charlotte Ray",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6644,
+          "place": 15,
+          "placing": "15th",
+          "player": "Asher",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6783,
+          "place": 16,
+          "placing": "16th",
+          "player": "Va",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6646,
+          "place": 17,
+          "placing": "17th",
+          "player": "Tebooty22",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6650,
+          "place": 21,
+          "placing": "21st",
+          "player": "Wyzguy",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6442,
+          "place": 22,
+          "placing": "22nd",
+          "player": "Wendingo",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6426,
+          "place": 26,
+          "placing": "26th",
+          "player": "Mirko Zanelli",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6706,
+          "place": 29,
+          "placing": "29th",
+          "player": "SSL Blank",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6480,
+          "place": 30,
+          "placing": "30th",
+          "player": "moueck",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6575,
+          "place": 45,
+          "placing": "45th",
+          "player": "Bun Bao Hue",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6684,
+          "place": 58,
+          "placing": "58th",
+          "player": "Quinton Brown",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Purple/Yellow Rosinante",
+      "leader": "OP12-061",
+      "leaderVariants": [
+        "OP16-080"
+      ],
+      "share": 0.0864,
+      "points": 435,
+      "deckCount": 37,
+      "skippedLists": 0,
+      "consensus": {
+        "EB04-058": 4,
+        "EB04-038": 4,
+        "OP15-078": 4,
+        "OP16-064": 4,
+        "OP16-065": 4,
+        "OP16-078": 4,
+        "P-093": 4,
+        "OP12-115": 4,
+        "P-088": 4,
+        "ST10-010": 3,
+        "OP12-108": 3,
+        "OP09-077": 2,
+        "OP13-076": 1,
+        "OP16-068": 1,
+        "EB03-062": 1,
+        "OP10-114": 2,
+        "OP16-067": 1
+      },
+      "core": {
+        "EB04-058": 4,
+        "EB04-038": 4,
+        "OP15-078": 4,
+        "OP16-064": 4,
+        "OP16-065": 4,
+        "OP16-078": 2,
+        "P-093": 4,
+        "OP12-115": 3,
+        "P-088": 4,
+        "ST10-010": 2,
+        "OP12-108": 2
+      },
+      "coreSlots": 37,
+      "flexSlots": 13,
+      "contenders": [
+        {
+          "id": "OP16-078",
+          "copy": 3,
+          "weight": 0.8919,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-115",
+          "copy": 4,
+          "weight": 0.8919,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-077",
+          "copy": 1,
+          "weight": 0.8378,
+          "inConsensus": true
+        },
+        {
+          "id": "ST10-010",
+          "copy": 3,
+          "weight": 0.8378,
+          "inConsensus": true
+        },
+        {
+          "id": "OP09-077",
+          "copy": 2,
+          "weight": 0.8108,
+          "inConsensus": true
+        },
+        {
+          "id": "OP12-108",
+          "copy": 3,
+          "weight": 0.7838,
+          "inConsensus": true
+        },
+        {
+          "id": "OP13-076",
+          "copy": 1,
+          "weight": 0.7568,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-068",
+          "copy": 1,
+          "weight": 0.5946,
+          "inConsensus": true
+        },
+        {
+          "id": "EB03-062",
+          "copy": 1,
+          "weight": 0.5676,
+          "inConsensus": true
+        },
+        {
+          "id": "OP10-114",
+          "copy": 1,
+          "weight": 0.5676,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-067",
+          "copy": 1,
+          "weight": 0.5676,
+          "inConsensus": true
+        },
+        {
+          "id": "OP10-114",
+          "copy": 2,
+          "weight": 0.5405,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-078",
+          "copy": 4,
+          "weight": 0.5405,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-068",
+          "copy": 2,
+          "weight": 0.5135,
+          "inConsensus": false
+        },
+        {
+          "id": "OP12-108",
+          "copy": 4,
+          "weight": 0.5135,
+          "inConsensus": false
+        },
+        {
+          "id": "OP13-076",
+          "copy": 2,
+          "weight": 0.4865,
+          "inConsensus": false
+        },
+        {
+          "id": "OP07-076",
+          "copy": 1,
+          "weight": 0.4324,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-067",
+          "copy": 2,
+          "weight": 0.2703,
+          "inConsensus": false
+        },
+        {
+          "id": "OP10-114",
+          "copy": 3,
+          "weight": 0.1892,
+          "inConsensus": false
+        },
+        {
+          "id": "ST10-010",
+          "copy": 4,
+          "weight": 0.1892,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-114",
+          "copy": 1,
+          "weight": 0.1622,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-114",
+          "copy": 2,
+          "weight": 0.1622,
+          "inConsensus": false
+        },
+        {
+          "id": "OP09-077",
+          "copy": 3,
+          "weight": 0.1622,
+          "inConsensus": false
+        }
+      ],
+      "cards": [
+        {
+          "id": "EB04-058",
+          "lists": 37,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "EB04-038",
+          "lists": 36,
+          "include": 0.972972972972973,
+          "avg": 3.89,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.973,
+            "2": 0.973,
+            "3": 0.973,
+            "4": 0.973
+          }
+        },
+        {
+          "id": "OP15-078",
+          "lists": 36,
+          "include": 0.972972972972973,
+          "avg": 3.89,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.973,
+            "2": 0.973,
+            "3": 0.973,
+            "4": 0.973
+          }
+        },
+        {
+          "id": "OP16-065",
+          "lists": 36,
+          "include": 0.972972972972973,
+          "avg": 3.89,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.973,
+            "2": 0.973,
+            "3": 0.973,
+            "4": 0.973
+          }
+        },
+        {
+          "id": "P-093",
+          "lists": 36,
+          "include": 0.972972972972973,
+          "avg": 3.89,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.973,
+            "2": 0.973,
+            "3": 0.973,
+            "4": 0.973
+          }
+        },
+        {
+          "id": "OP16-064",
+          "lists": 36,
+          "include": 0.972972972972973,
+          "avg": 3.84,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.973,
+            "2": 0.973,
+            "3": 0.973,
+            "4": 0.9189
+          }
+        },
+        {
+          "id": "P-088",
+          "lists": 35,
+          "include": 0.9459459459459459,
+          "avg": 3.78,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9459,
+            "2": 0.9459,
+            "3": 0.9459,
+            "4": 0.9459
+          }
+        },
+        {
+          "id": "OP12-115",
+          "lists": 35,
+          "include": 0.9459459459459459,
+          "avg": 3.73,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9459,
+            "2": 0.9459,
+            "3": 0.9459,
+            "4": 0.8919
+          }
+        },
+        {
+          "id": "OP16-078",
+          "lists": 36,
+          "include": 0.972972972972973,
+          "avg": 3.38,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.973,
+            "2": 0.973,
+            "3": 0.8919,
+            "4": 0.5405
+          }
+        },
+        {
+          "id": "OP12-108",
+          "lists": 34,
+          "include": 0.918918918918919,
+          "avg": 3.14,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.9189,
+            "2": 0.9189,
+            "3": 0.7838,
+            "4": 0.5135
+          }
+        },
+        {
+          "id": "ST10-010",
+          "lists": 35,
+          "include": 0.9459459459459459,
+          "avg": 2.92,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.9459,
+            "2": 0.9459,
+            "3": 0.8378,
+            "4": 0.1892
+          }
+        },
+        {
+          "id": "OP09-077",
+          "lists": 31,
+          "include": 0.8378378378378378,
+          "avg": 1.81,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.8378,
+            "2": 0.8108,
+            "3": 0.1622
+          }
+        },
+        {
+          "id": "OP10-114",
+          "lists": 21,
+          "include": 0.5675675675675675,
+          "avg": 1.3,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.5676,
+            "2": 0.5405,
+            "3": 0.1892
+          }
+        },
+        {
+          "id": "OP13-076",
+          "lists": 28,
+          "include": 0.7567567567567568,
+          "avg": 1.24,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.7568,
+            "2": 0.4865
+          }
+        },
+        {
+          "id": "OP16-068",
+          "lists": 22,
+          "include": 0.5945945945945946,
+          "avg": 1.16,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.5946,
+            "2": 0.5135,
+            "3": 0.0541
+          }
+        },
+        {
+          "id": "OP16-067",
+          "lists": 21,
+          "include": 0.5675675675675675,
+          "avg": 0.86,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.5676,
+            "2": 0.2703,
+            "3": 0.027
+          }
+        },
+        {
+          "id": "EB03-062",
+          "lists": 21,
+          "include": 0.5675675675675675,
+          "avg": 0.62,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.5676,
+            "2": 0.0541
+          }
+        },
+        {
+          "id": "OP07-076",
+          "lists": 16,
+          "include": 0.43243243243243246,
+          "avg": 0.46,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.4324,
+            "2": 0.027
+          }
+        },
+        {
+          "id": "OP15-114",
+          "lists": 6,
+          "include": 0.16216216216216217,
+          "avg": 0.41,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.1622,
+            "2": 0.1622,
+            "3": 0.0541,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP15-077",
+          "lists": 2,
+          "include": 0.05405405405405406,
+          "avg": 0.14,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.0541,
+            "2": 0.0541,
+            "3": 0.027
+          }
+        },
+        {
+          "id": "OP05-106",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP09-095",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP09-099",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP12-112",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP15-108",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP16-104",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP16-108",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP16-109",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP16-110",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP16-119",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.11,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027,
+            "4": 0.027
+          }
+        },
+        {
+          "id": "OP09-086",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.08,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027
+          }
+        },
+        {
+          "id": "OP09-093",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.08,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027
+          }
+        },
+        {
+          "id": "OP09-096",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.08,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027
+          }
+        },
+        {
+          "id": "OP16-106",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.08,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027,
+            "3": 0.027
+          }
+        },
+        {
+          "id": "OP05-105",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.05,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027
+          }
+        },
+        {
+          "id": "OP14-069",
+          "lists": 2,
+          "include": 0.05405405405405406,
+          "avg": 0.05,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.0541
+          }
+        },
+        {
+          "id": "OP16-103",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.05,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027
+          }
+        },
+        {
+          "id": "OP16-116",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.05,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.027,
+            "2": 0.027
+          }
+        },
+        {
+          "id": "OP16-077",
+          "lists": 1,
+          "include": 0.02702702702702703,
+          "avg": 0.03,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.027
+          }
+        }
+      ],
+      "topList": {
+        "listId": 6539,
+        "player": "Gamba",
+        "placing": "3rd",
+        "tournament": "Treasure Cup Bielefeld",
+        "date": "2026-07-05",
+        "url": "https://onepiece.limitlesstcg.com/decks/list/6539",
+        "leader": "OP12-061",
+        "cards": {
+          "OP16-064": 4,
+          "OP12-108": 3,
+          "OP10-114": 2,
+          "P-088": 4,
+          "P-093": 4,
+          "ST10-010": 3,
+          "OP16-068": 2,
+          "EB04-058": 4,
+          "EB04-038": 4,
+          "OP16-065": 4,
+          "EB03-062": 1,
+          "OP15-078": 4,
+          "OP13-076": 2,
+          "OP12-115": 4,
+          "OP09-077": 2,
+          "OP16-078": 3
+        }
+      },
+      "lists": [
+        {
+          "listId": 6539,
+          "place": 3,
+          "placing": "3rd",
+          "player": "Gamba",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6717,
+          "place": 4,
+          "placing": "4th",
+          "player": "MaGe",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6454,
+          "place": 4,
+          "placing": "4th",
+          "player": "Cinnas",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6717,
+          "place": 5,
+          "placing": "5th",
+          "player": "George Skeparnides",
+          "tournament": "Regional Sofia",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6717,
+          "place": 5,
+          "placing": "5th",
+          "player": "George Skeparnides",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6729,
+          "place": 7,
+          "placing": "7th",
+          "player": "Tlapaleria EL ROTOMARTILLO",
+          "tournament": "Regional Puebla",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6543,
+          "place": 7,
+          "placing": "7th",
+          "player": "Francesco Liuzzi",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6457,
+          "place": 7,
+          "placing": "7th",
+          "player": "George Skeparnides",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6717,
+          "place": 8,
+          "placing": "8th",
+          "player": "Jamie",
+          "tournament": "Treasure Cup Utrecht",
+          "date": "2026-07-12"
+        },
+        {
+          "listId": 6430,
+          "place": 9,
+          "placing": "9th",
+          "player": "Tanguy Beauvois",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6627,
+          "place": 9,
+          "placing": "9th",
+          "player": "Liam Edwards",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6729,
+          "place": 10,
+          "placing": "10th",
+          "player": "Tlapaleria EL ROTOMARTILLO",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6628,
+          "place": 10,
+          "placing": "10th",
+          "player": "Professor Bee",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6780,
+          "place": 11,
+          "placing": "11th",
+          "player": "Ryan Hartmann",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6641,
+          "place": 12,
+          "placing": "12th",
+          "player": "Xtotx",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6768,
+          "place": 14,
+          "placing": "14th",
+          "player": "Daniel Winkler",
+          "tournament": "Treasure Cup Sofia",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6550,
+          "place": 14,
+          "placing": "14th",
+          "player": "kalinka",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6632,
+          "place": 14,
+          "placing": "14th",
+          "player": "Marc@@@1",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-21"
+        },
+        {
+          "listId": 6797,
+          "place": 16,
+          "placing": "16th",
+          "player": "Richard Zhou",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6439,
+          "place": 19,
+          "placing": "19th",
+          "player": "Cano6969",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6471,
+          "place": 21,
+          "placing": "21st",
+          "player": "Samy [BlackSmiths]",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6444,
+          "place": 24,
+          "placing": "24th",
+          "player": "MaGe",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6654,
+          "place": 25,
+          "placing": "25th",
+          "player": "edwin’s big daddy",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6531,
+          "place": 26,
+          "placing": "26th",
+          "player": "NickK",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6478,
+          "place": 28,
+          "placing": "28th",
+          "player": "Francesco Liuzzi",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6658,
+          "place": 29,
+          "placing": "29th",
+          "player": "Mohammad Jawdat Fattah",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6430,
+          "place": 30,
+          "placing": "30th",
+          "player": "Pauaboi98",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6627,
+          "place": 30,
+          "placing": "30th",
+          "player": "Liam Edwards",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6714,
+          "place": 32,
+          "placing": "32nd",
+          "player": "Vins",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6568,
+          "place": 35,
+          "placing": "35th",
+          "player": "Nukro",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6663,
+          "place": 35,
+          "placing": "35th",
+          "player": "SaffronTCG (Rex)",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6627,
+          "place": 38,
+          "placing": "38th",
+          "player": "Holden Miller",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6670,
+          "place": 44,
+          "placing": "44th",
+          "player": "Agoron",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6578,
+          "place": 48,
+          "placing": "48th",
+          "player": "Dirk Triebe",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6679,
+          "place": 54,
+          "placing": "54th",
+          "player": "Joshua Cao",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6587,
+          "place": 58,
+          "placing": "58th",
+          "player": "Soren",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6684,
+          "place": 58,
+          "placing": "58th",
+          "player": "NRG Astrox",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Red/Blue Lucy",
+      "leader": "OP15-002",
+      "leaderVariants": [],
+      "share": 0.0286,
+      "points": 144,
+      "deckCount": 10,
+      "skippedLists": 0,
+      "consensus": {
+        "OP05-019": 2,
+        "OP08-047": 2,
+        "OP10-045": 3,
+        "OP10-060": 4,
+        "OP15-020": 4,
+        "OP15-021": 3,
+        "OP15-040": 4,
+        "OP15-046": 4,
+        "OP15-052": 4,
+        "OP15-053": 4,
+        "OP15-054": 4,
+        "OP15-057": 1,
+        "OP09-118": 1,
+        "OP15-014": 3,
+        "OP15-055": 4,
+        "OP05-015": 2,
+        "OP06-058": 1
+      },
+      "core": {
+        "OP05-019": 2,
+        "OP08-047": 2,
+        "OP10-045": 3,
+        "OP10-060": 4,
+        "OP15-020": 4,
+        "OP15-021": 3,
+        "OP15-040": 4,
+        "OP15-046": 4,
+        "OP15-052": 4,
+        "OP15-053": 4,
+        "OP15-054": 4,
+        "OP15-057": 1,
+        "OP09-118": 1
+      },
+      "coreSlots": 40,
+      "flexSlots": 10,
+      "contenders": [
+        {
+          "id": "OP15-014",
+          "copy": 1,
+          "weight": 0.8,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-055",
+          "copy": 1,
+          "weight": 0.8,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-014",
+          "copy": 2,
+          "weight": 0.8,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-055",
+          "copy": 2,
+          "weight": 0.8,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-055",
+          "copy": 3,
+          "weight": 0.8,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-014",
+          "copy": 3,
+          "weight": 0.7,
+          "inConsensus": true
+        },
+        {
+          "id": "OP05-015",
+          "copy": 1,
+          "weight": 0.6,
+          "inConsensus": true
+        },
+        {
+          "id": "OP06-058",
+          "copy": 1,
+          "weight": 0.6,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-055",
+          "copy": 4,
+          "weight": 0.6,
+          "inConsensus": true
+        },
+        {
+          "id": "OP05-015",
+          "copy": 2,
+          "weight": 0.5,
+          "inConsensus": true
+        },
+        {
+          "id": "OP15-057",
+          "copy": 2,
+          "weight": 0.5,
+          "inConsensus": false
+        },
+        {
+          "id": "ST10-015",
+          "copy": 1,
+          "weight": 0.4,
+          "inConsensus": false
+        },
+        {
+          "id": "ST10-015",
+          "copy": 2,
+          "weight": 0.4,
+          "inConsensus": false
+        },
+        {
+          "id": "OP10-045",
+          "copy": 4,
+          "weight": 0.3,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-056",
+          "copy": 1,
+          "weight": 0.2,
+          "inConsensus": false
+        },
+        {
+          "id": "OP06-058",
+          "copy": 2,
+          "weight": 0.2,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-056",
+          "copy": 2,
+          "weight": 0.2,
+          "inConsensus": false
+        }
+      ],
+      "cards": [
+        {
+          "id": "OP15-040",
+          "lists": 10,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-046",
+          "lists": 10,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-052",
+          "lists": 10,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-053",
+          "lists": 10,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP15-054",
+          "lists": 10,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP10-060",
+          "lists": 10,
+          "include": 1,
+          "avg": 3.9,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.9
+          }
+        },
+        {
+          "id": "OP15-020",
+          "lists": 10,
+          "include": 1,
+          "avg": 3.9,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.9
+          }
+        },
+        {
+          "id": "OP10-045",
+          "lists": 10,
+          "include": 1,
+          "avg": 3.3,
+          "modal": 3,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.3
+          }
+        },
+        {
+          "id": "OP15-055",
+          "lists": 8,
+          "include": 0.8,
+          "avg": 3,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.8,
+            "2": 0.8,
+            "3": 0.8,
+            "4": 0.6
+          }
+        },
+        {
+          "id": "OP15-021",
+          "lists": 10,
+          "include": 1,
+          "avg": 2.9,
+          "modal": 3,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 0.9
+          }
+        },
+        {
+          "id": "OP15-014",
+          "lists": 8,
+          "include": 0.8,
+          "avg": 2.3,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.8,
+            "2": 0.8,
+            "3": 0.7
+          }
+        },
+        {
+          "id": "OP05-019",
+          "lists": 10,
+          "include": 1,
+          "avg": 2.1,
+          "modal": 2,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 0.1
+          }
+        },
+        {
+          "id": "OP08-047",
+          "lists": 10,
+          "include": 1,
+          "avg": 2,
+          "modal": 2,
+          "atLeast": {
+            "1": 1,
+            "2": 0.9,
+            "3": 0.1
+          }
+        },
+        {
+          "id": "OP15-057",
+          "lists": 10,
+          "include": 1,
+          "avg": 1.5,
+          "modal": 2,
+          "atLeast": {
+            "1": 1,
+            "2": 0.5
+          }
+        },
+        {
+          "id": "OP05-015",
+          "lists": 6,
+          "include": 0.6,
+          "avg": 1.1,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.6,
+            "2": 0.5
+          }
+        },
+        {
+          "id": "OP09-118",
+          "lists": 9,
+          "include": 0.9,
+          "avg": 0.9,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.9
+          }
+        },
+        {
+          "id": "OP06-058",
+          "lists": 6,
+          "include": 0.6,
+          "avg": 0.8,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.6,
+            "2": 0.2
+          }
+        },
+        {
+          "id": "ST10-015",
+          "lists": 4,
+          "include": 0.4,
+          "avg": 0.8,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.4,
+            "2": 0.4
+          }
+        },
+        {
+          "id": "OP10-059",
+          "lists": 1,
+          "include": 0.1,
+          "avg": 0.4,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.1,
+            "2": 0.1,
+            "3": 0.1,
+            "4": 0.1
+          }
+        },
+        {
+          "id": "OP15-056",
+          "lists": 2,
+          "include": 0.2,
+          "avg": 0.4,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.2,
+            "2": 0.2
+          }
+        },
+        {
+          "id": "OP09-018",
+          "lists": 1,
+          "include": 0.1,
+          "avg": 0.2,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.1,
+            "2": 0.1
+          }
+        },
+        {
+          "id": "OP10-058",
+          "lists": 1,
+          "include": 0.1,
+          "avg": 0.1,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1
+          }
+        },
+        {
+          "id": "OP13-042",
+          "lists": 1,
+          "include": 0.1,
+          "avg": 0.1,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1
+          }
+        },
+        {
+          "id": "OP15-019",
+          "lists": 1,
+          "include": 0.1,
+          "avg": 0.1,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1
+          }
+        },
+        {
+          "id": "OP15-048",
+          "lists": 1,
+          "include": 0.1,
+          "avg": 0.1,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1
+          }
+        },
+        {
+          "id": "OP16-056",
+          "lists": 1,
+          "include": 0.1,
+          "avg": 0.1,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.1
+          }
+        }
+      ],
+      "topList": {
+        "listId": 6423,
+        "player": "BahiaéBH",
+        "placing": "1st",
+        "tournament": "Regional Peoria, IL",
+        "date": "2026-06-20",
+        "url": "https://onepiece.limitlesstcg.com/decks/list/6423",
+        "leader": "OP15-002",
+        "cards": {
+          "OP15-040": 4,
+          "OP15-052": 4,
+          "OP15-053": 4,
+          "OP05-015": 2,
+          "OP10-045": 3,
+          "OP15-014": 3,
+          "OP08-047": 2,
+          "OP15-046": 4,
+          "OP09-118": 1,
+          "OP05-019": 2,
+          "OP15-055": 4,
+          "OP15-054": 4,
+          "OP15-021": 3,
+          "OP10-060": 4,
+          "OP15-020": 4,
+          "OP15-057": 2
+        }
+      },
+      "lists": [
+        {
+          "listId": 6423,
+          "place": 1,
+          "placing": "1st",
+          "player": "BahiaéBH",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6423,
+          "place": 2,
+          "placing": "2nd",
+          "player": "Nadir Mouti",
+          "tournament": "Regional Toulouse",
+          "date": "2026-06-27"
+        },
+        {
+          "listId": 6787,
+          "place": 5,
+          "placing": "5th",
+          "player": "Caleb Albert",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6692,
+          "place": 5,
+          "placing": "5th",
+          "player": "Nadir Mouti",
+          "tournament": "Regional Utrecht",
+          "date": "2026-07-11"
+        },
+        {
+          "listId": 6776,
+          "place": 7,
+          "placing": "7th",
+          "player": "Jovis",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6744,
+          "place": 8,
+          "placing": "8th",
+          "player": "Crisaac31",
+          "tournament": "Treasure Cup Puebla",
+          "date": "2026-07-26"
+        },
+        {
+          "listId": 6547,
+          "place": 11,
+          "placing": "11th",
+          "player": "Peter Borschnek",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6581,
+          "place": 52,
+          "placing": "52nd",
+          "player": "Magyo",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6589,
+          "place": 60,
+          "placing": "60th",
+          "player": "Shampao",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        },
+        {
+          "listId": 6592,
+          "place": 63,
+          "placing": "63rd",
+          "player": "Azad",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Black Yamato",
+      "leader": "OP16-079",
+      "leaderVariants": [],
+      "share": 0.011899999999999999,
+      "points": 60,
+      "deckCount": 6,
+      "skippedLists": 0,
+      "consensus": {
+        "OP16-082": 4,
+        "OP16-084": 4,
+        "OP16-085": 4,
+        "OP16-087": 4,
+        "OP16-091": 4,
+        "OP16-092": 4,
+        "OP16-096": 4,
+        "OP16-097": 4,
+        "OP16-098": 4,
+        "OP16-099": 4,
+        "OP14-096": 2,
+        "OP16-081": 2,
+        "OP16-088": 2,
+        "OP16-095": 2,
+        "OP05-091": 1,
+        "OP16-086": 1
+      },
+      "core": {
+        "OP16-082": 3,
+        "OP16-084": 4,
+        "OP16-085": 4,
+        "OP16-087": 4,
+        "OP16-091": 4,
+        "OP16-092": 3,
+        "OP16-096": 4,
+        "OP16-097": 3,
+        "OP16-098": 4,
+        "OP16-099": 2
+      },
+      "coreSlots": 35,
+      "flexSlots": 15,
+      "contenders": [
+        {
+          "id": "OP14-096",
+          "copy": 1,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-081",
+          "copy": 1,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-088",
+          "copy": 1,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP14-096",
+          "copy": 2,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-081",
+          "copy": 2,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-088",
+          "copy": 2,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-099",
+          "copy": 3,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-082",
+          "copy": 4,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-092",
+          "copy": 4,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-097",
+          "copy": 4,
+          "weight": 0.8333,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-095",
+          "copy": 1,
+          "weight": 0.6667,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-099",
+          "copy": 4,
+          "weight": 0.6667,
+          "inConsensus": true
+        },
+        {
+          "id": "OP05-091",
+          "copy": 1,
+          "weight": 0.5,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-086",
+          "copy": 1,
+          "weight": 0.5,
+          "inConsensus": true
+        },
+        {
+          "id": "OP16-095",
+          "copy": 2,
+          "weight": 0.5,
+          "inConsensus": true
+        },
+        {
+          "id": "OP11-097",
+          "copy": 1,
+          "weight": 0.3333,
+          "inConsensus": false
+        },
+        {
+          "id": "OP13-093",
+          "copy": 1,
+          "weight": 0.3333,
+          "inConsensus": false
+        },
+        {
+          "id": "OP05-091",
+          "copy": 2,
+          "weight": 0.3333,
+          "inConsensus": false
+        },
+        {
+          "id": "OP13-093",
+          "copy": 2,
+          "weight": 0.3333,
+          "inConsensus": false
+        },
+        {
+          "id": "OP16-081",
+          "copy": 3,
+          "weight": 0.3333,
+          "inConsensus": false
+        },
+        {
+          "id": "OP05-087",
+          "copy": 1,
+          "weight": 0.1667,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-083",
+          "copy": 1,
+          "weight": 0.1667,
+          "inConsensus": false
+        },
+        {
+          "id": "OP15-090",
+          "copy": 1,
+          "weight": 0.1667,
+          "inConsensus": false
+        },
+        {
+          "id": "OP05-087",
+          "copy": 2,
+          "weight": 0.1667,
+          "inConsensus": false
+        }
+      ],
+      "cards": [
+        {
+          "id": "OP16-084",
+          "lists": 6,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-085",
+          "lists": 6,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-087",
+          "lists": 6,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-091",
+          "lists": 6,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-096",
+          "lists": 6,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-098",
+          "lists": 6,
+          "include": 1,
+          "avg": 4,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "id": "OP16-082",
+          "lists": 6,
+          "include": 1,
+          "avg": 3.83,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.8333
+          }
+        },
+        {
+          "id": "OP16-092",
+          "lists": 6,
+          "include": 1,
+          "avg": 3.83,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.8333
+          }
+        },
+        {
+          "id": "OP16-097",
+          "lists": 6,
+          "include": 1,
+          "avg": 3.83,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0.8333
+          }
+        },
+        {
+          "id": "OP16-099",
+          "lists": 6,
+          "include": 1,
+          "avg": 3.5,
+          "modal": 4,
+          "atLeast": {
+            "1": 1,
+            "2": 1,
+            "3": 0.8333,
+            "4": 0.6667
+          }
+        },
+        {
+          "id": "OP16-081",
+          "lists": 5,
+          "include": 0.8333333333333334,
+          "avg": 2,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.8333,
+            "2": 0.8333,
+            "3": 0.3333
+          }
+        },
+        {
+          "id": "OP16-088",
+          "lists": 5,
+          "include": 0.8333333333333334,
+          "avg": 1.83,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.8333,
+            "2": 0.8333,
+            "3": 0.1667
+          }
+        },
+        {
+          "id": "OP14-096",
+          "lists": 5,
+          "include": 0.8333333333333334,
+          "avg": 1.67,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.8333,
+            "2": 0.8333
+          }
+        },
+        {
+          "id": "OP16-095",
+          "lists": 4,
+          "include": 0.6666666666666666,
+          "avg": 1.17,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.6667,
+            "2": 0.5
+          }
+        },
+        {
+          "id": "OP13-093",
+          "lists": 2,
+          "include": 0.3333333333333333,
+          "avg": 1,
+          "modal": 4,
+          "atLeast": {
+            "1": 0.3333,
+            "2": 0.3333,
+            "3": 0.1667,
+            "4": 0.1667
+          }
+        },
+        {
+          "id": "OP05-091",
+          "lists": 3,
+          "include": 0.5,
+          "avg": 0.83,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.5,
+            "2": 0.3333
+          }
+        },
+        {
+          "id": "OP16-086",
+          "lists": 3,
+          "include": 0.5,
+          "avg": 0.67,
+          "modal": 1,
+          "atLeast": {
+            "1": 0.5,
+            "2": 0.1667
+          }
+        },
+        {
+          "id": "OP05-087",
+          "lists": 1,
+          "include": 0.16666666666666666,
+          "avg": 0.5,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.1667,
+            "2": 0.1667,
+            "3": 0.1667
+          }
+        },
+        {
+          "id": "OP11-097",
+          "lists": 2,
+          "include": 0.3333333333333333,
+          "avg": 0.5,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.3333,
+            "2": 0.1667
+          }
+        },
+        {
+          "id": "OP15-090",
+          "lists": 1,
+          "include": 0.16666666666666666,
+          "avg": 0.5,
+          "modal": 3,
+          "atLeast": {
+            "1": 0.1667,
+            "2": 0.1667,
+            "3": 0.1667
+          }
+        },
+        {
+          "id": "OP15-083",
+          "lists": 1,
+          "include": 0.16666666666666666,
+          "avg": 0.33,
+          "modal": 2,
+          "atLeast": {
+            "1": 0.1667,
+            "2": 0.1667
+          }
+        }
+      ],
+      "topList": {
+        "listId": 6541,
+        "player": "Vincaru",
+        "placing": "5th",
+        "tournament": "Treasure Cup Bielefeld",
+        "date": "2026-07-05",
+        "url": "https://onepiece.limitlesstcg.com/decks/list/6541",
+        "leader": "OP16-079",
+        "cards": {
+          "OP16-091": 4,
+          "OP16-092": 4,
+          "OP16-087": 4,
+          "OP16-081": 2,
+          "OP16-088": 2,
+          "OP16-095": 2,
+          "OP13-093": 2,
+          "OP16-082": 4,
+          "OP16-084": 4,
+          "OP16-098": 4,
+          "OP16-096": 4,
+          "OP16-097": 4,
+          "OP16-085": 4,
+          "OP16-099": 3,
+          "OP14-096": 2,
+          "OP11-097": 1
+        }
+      },
+      "lists": [
+        {
+          "listId": 6541,
+          "place": 5,
+          "placing": "5th",
+          "player": "Vincaru",
+          "tournament": "Treasure Cup Bielefeld",
+          "date": "2026-07-05"
+        },
+        {
+          "listId": 6794,
+          "place": 13,
+          "placing": "13th",
+          "player": "K",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-07-25"
+        },
+        {
+          "listId": 6617,
+          "place": 14,
+          "placing": "14th",
+          "player": "Stitch",
+          "tournament": "Treasure Cup Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6469,
+          "place": 19,
+          "placing": "19th",
+          "player": "Atún",
+          "tournament": "Treasure Cup Toulouse",
+          "date": "2026-06-28"
+        },
+        {
+          "listId": 6662,
+          "place": 34,
+          "placing": "34th",
+          "player": "Bigchris2007",
+          "tournament": "Regional Peoria, IL",
+          "date": "2026-06-20"
+        },
+        {
+          "listId": 6572,
+          "place": 42,
+          "placing": "42nd",
+          "player": "[Onigiri] MaMeind",
+          "tournament": "Regional Bielefeld",
+          "date": "2026-07-04"
+        }
+      ]
+    }
+  ]
+}
