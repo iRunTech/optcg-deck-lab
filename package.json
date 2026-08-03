@@ -1,0 +1,21 @@
+{
+  "name": "optcg-deck-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Deck builder, meta analysis and playtest tools for the One Piece Card Game",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test test/*.test.mjs",
+    "meta": "node scripts/fetch-meta.mjs",
+    "meta:refresh": "node scripts/fetch-meta.mjs --refresh",
+    "suggest": "node scripts/suggest.mjs",
+    "matchups": "node scripts/matchups.mjs",
+    "coverage": "node scripts/coverage.mjs",
+    "audit": "node scripts/audit-scripts.mjs"
+  }
+}

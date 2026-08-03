@@ -1,0 +1,6 @@
+# Scraper HTTP cache — regenerated on demand, never committed.
+.cache/
+
+node_modules/
+*.log
+.DS_Store
